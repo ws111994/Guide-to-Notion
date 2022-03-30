@@ -18,8 +18,12 @@ A student in need of good way of organizing notes and tasks.
 
 ### Prerequisite Knowledge
 
+1. Users will be required to know how to install an app on their device.
+2. Users are expected to konw what operating system they are using. 
 
 ### Software Requirements
+1. Users are are required to have Windos or Mac OS as their operating system
+2. Enough storage, ram and internet connection is required for installation and syncing.
 
 ### Procedures Overview
 

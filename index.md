@@ -10,6 +10,8 @@ permalink: /
 
 Hello there! This documentation will help you use Notion to the fullest. The goal of this document is to provide a complete walkthrough that will make you a pro Notion users at the end. We will also provide small tips and tricks to optimize your workflow when you are using Notion.
 
+Plan, track, and do all your work in one place. Steer the ship together!
+
 ### Intended Users
 
 This documentation is targeted towards the following users:

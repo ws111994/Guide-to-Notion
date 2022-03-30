@@ -27,16 +27,16 @@ A student in need of good way of organizing notes and tasks.
 
 ### Procedures Overview
 
-1. Install the Ruby Gem
+1. Install the Notion
   ```bash
-  $ gem install just-the-docs
+  General Installation Progress
+  https://www.notion.so/desktop
   ```
   ```yaml
-  # .. or add it to your your Jekyll site’s Gemfile
-  gem "just-the-docs"
+  You could also use the web version but desktop version works better
   ```
 
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
+2. Making Personal Task Boards in notion
   ```yaml
   theme: "just-the-docs"
   ```
@@ -54,11 +54,6 @@ A student in need of good way of organizing notes and tasks.
   # .. or if you're using a Gemfile (bundler)
   $ bundle exec jekyll serve
   ```
-
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
 
 ---
 

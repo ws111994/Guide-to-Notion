@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 2
+title: Creating task board
 nav_order: 5
 ---
 

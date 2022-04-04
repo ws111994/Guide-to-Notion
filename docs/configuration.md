@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 1
+title: Setting up template
 nav_order: 2
 ---
 

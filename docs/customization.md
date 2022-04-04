@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Integrating with third party apps
 nav_order: 6
 ---
 

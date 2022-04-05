@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Integrating with third party apps
+title: Sharing Pages & Collaborating
 nav_order: 6
 ---
 
-# Intergrating Third Party Apps
+# Sharing Pages With Others
 {: .no_toc }
 
 ---
 
-something
+It is possible to use Notion as the all-in-one-place app instead of other useful apps. For instance, Notion can replace Google Docs, Google Sheets, Evernote, Pocket, Google Calendar, etc.
+
+It is easy to share the documents and all of the added templates. As a result, Notion is a great tool for the internal wiki. Besides, the interface for wiki-building capabilities is also quite convenient.
 
 ---
 
@@ -20,11 +22,14 @@ something
 
 ---
 
-## sub heading 1
+## Share menu
 
-something
+Notion is built to be super collaborative, so there's a number of ways to share the content you create with other people. Our permission levels ensure that they access this content exactly the way you want them to.
 
+First, here's a quick tour of the Share menu, which can be clicked at the top right of your page. On mobile, click the share icon next to the ••• at the top right for the same options.
 
+In order to access the share functionality, the `Share` button can be clicked at the top right of your page. On mobile, an `•••` button can be seen at the same spot.
+>>![shareMenu](https://github.com/ws111994/lost-ark-studio/tree/gh-pages/docs/images/task3 "shareMenu")
 ---
 
 ## sub heading 2

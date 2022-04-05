@@ -34,7 +34,7 @@ In order to access the share functionality, the `Share` button can be clicked at
 >![share](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "share")
 ---
 This is an example for different parties that may have access to this page. 
->![share](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "shareExample")
+>![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "shareExample")
 - Share to web is turned off
 - The dropdown menus on the right let you set their level of access.
 - `Copy link` copies the page's unique URL to your clipboard so you can share it with whoever you want. 

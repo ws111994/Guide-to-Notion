@@ -15,8 +15,7 @@ Here we will explore and learn how to find and use in-app templates and how to i
 
 ---
 
-### Table of Contents
-
+### Table of contents
 {: .no_toc .text-delta }
 * TOC
 {:toc}
@@ -35,7 +34,7 @@ Here is what your page looks like when you first register for Notion.
 
 >![Starter Template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/starterTemplate.png?raw=true "Starter Template")
 
-In this example we are going to select the `Task List` template from the side bar to create a to-do list.
+In this example we are going to select the "Task List" template from the side bar to create a to-do list.
 
 
 1. Click on `✔ Task List` option on the left sidebar. 
@@ -83,7 +82,7 @@ Alternatively, you can also click on `+ Add a page` to create an "Untitled page"
 
 In addition to the in-app templates, you can also duplicate a public page made by other users into your own Notion as a template. 
 
-1. Go to https://www.notion.so/templates to view templates available.
+1. Go to [this link](https://www.notion.so/templates) to view templates available.
 
 2. Click on a template that you would like to import. Here we will select "Branch's engineering roadmap" template.
 
@@ -93,7 +92,7 @@ In addition to the in-app templates, you can also duplicate a public page made b
 
 >![duplicate template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/duplicateTemplate.png?raw=true "duplicate template to own Notion board")
 
-:ledger: It may take a few moments for the template to load onto your Notion board.
+> :ledger: It may take a few moments for the template to load onto your Notion board.
 
 Congratulations! You just loaded a community-made template onto your own Notion board!
 

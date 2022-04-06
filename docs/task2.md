@@ -20,7 +20,7 @@ Creating a task board in notion is simple. With the task board, it is easy to pl
 ---
 ## Commands and Keys
 
-:ledger: **[Return]** is the same as **[Enter]** on windows machines. 
+> :ledger: **[Return]** is the same as **[Enter]** on windows machines. 
 
 ---
 
@@ -32,7 +32,7 @@ In order to create your task board, you will need to create a new page. Creating
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 
-:ledger: Your Notion can appear different depending on what you already have on your local machine, but the location of the `+ New page` will be at the same place.
+> :ledger: Your Notion can appear different depending on what you already have on your local machine, but the location of the `+ New page` will be at the same place.
 
 
 2. Name your new page with proper name.
@@ -72,26 +72,26 @@ To have a better visual representation, the categories will need to be arranged 
 In order to achieve this, you will need to click and grab the second category. Then you drag and drop to the right of the first category.
 
 
-1. Click on the 6 dot icon and drag and drop the category right to the first category.
+**1.** Click on the 6 dot icon and drag and drop the category right to the first category.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161934666-d0a2f6fc-db30-4444-936e-5ea6630ac234.gif)
 
-:ledger: Blue lines are there to guide you where it will land.
+> :ledger: Blue lines are there to guide you where it will land.
 
 Repeat this process to rearrange the categories in order.
 
 
-2. Hover over `•••` and click on `Full width`.
+**2.** Hover over `•••` and click on `Full width`.
 
 <img width="1636" alt="Screen Shot 2022-04-06 at 2 19 13 AM" src="https://user-images.githubusercontent.com/90341253/161942013-71aceecc-a274-4873-b642-053aaca40a2e.png">
 
-:ledger: You can locate the `•••` button on the top right corner of the page.
+> :ledger: You can locate the `•••` button on the top right corner of the page.
 
 <img width="1636" alt="Screen Shot 2022-04-06 at 2 23 00 AM" src="https://user-images.githubusercontent.com/90341253/161942725-4017f73c-a879-4518-adfb-ee2d211b348b.png">
 
 <br>
 
-3. Add dividers under each categories.
+**3.** Add dividers under each categories.
 
 >```
 > ---

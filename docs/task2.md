@@ -48,7 +48,7 @@ After creating the new page with proper title and with a icon, you will be able 
 ### Creating the category by adding heading  
 
 After creating new page, you will now need to add heading to create categories. 
-1. Typing '/heading 2' to create category, then name the catagory.
+1. Type '/heading 2' to create category, then name the catagory.
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 11 28 58 PM" src="https://user-images.githubusercontent.com/90341253/161932980-8e61a351-7ae0-41c2-88de-ed15954d6823.png">
 
@@ -65,7 +65,27 @@ In order to achieve this, you will need to click and grab the second category. T
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161934666-d0a2f6fc-db30-4444-936e-5ea6630ac234.gif)
 
-*Visual representation of how 'drag and drop' works on Notion.*
+*Blue lines are there to guide you where it will land.*
+
+Repeat the process to rearrange the categories in order.
+
+2. Locate the '•••' and select 'Full width'.
+
+<img width="1636" alt="Screen Shot 2022-04-06 at 2 19 13 AM" src="https://user-images.githubusercontent.com/90341253/161942013-71aceecc-a274-4873-b642-053aaca40a2e.png">
+
+*You can locate the '•••' button on the right top corner of the Notion.*
+
+<img width="1636" alt="Screen Shot 2022-04-06 at 2 23 00 AM" src="https://user-images.githubusercontent.com/90341253/161942725-4017f73c-a879-4518-adfb-ee2d211b348b.png">
+
+3. Add dividers under each categories. 
+
+>```
+>---
+>```
+After selecting the category, press 'enter', then use 3 hyphen to create a divider.
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161944665-f9ef6a53-976a-4008-a204-70eca7eb0658.gif)
+
 
 
 

@@ -71,7 +71,9 @@ In order to create a group in Notion, please follow the steps below:
 
 **1.** Go to `Settings & Members` at the top of you left-hand sidebar.
 
-
+>![settings](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/settings.png?raw=true "settings")
+<br />
+<br />
 
 **2.** Select the `Members` tab in the sidebar.
 

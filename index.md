@@ -64,18 +64,11 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 1. Install the Notion
   ```bash
-  General Installation Progress
   https://www.notion.so/desktop
   ```
-  ```yaml
-  You could also use the web version but this guid
-  ```
-
 2. Using Notion with a Template
 
-
 3. Making Personal Task Boards in notion
-
 
 4. Sharing Pages and Collaborating
 

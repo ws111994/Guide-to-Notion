@@ -27,6 +27,7 @@ This is the image of landing page of the Nontion when you open it.
 1. Create a new page by clicking'+ New page' at the bottom left of the app. 
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
+
 ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
 > **Note:** Your Notion can appear different depending on what you already have on your local machine, but the location of the '+ New page' will be at the same place.
 

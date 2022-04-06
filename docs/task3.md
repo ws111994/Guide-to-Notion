@@ -67,7 +67,7 @@ To make it easier to share with commonly-used groups (i.e. your study group or w
 
 **Note**: only workspace admins can create or edit groups.
 
-In order to create a group in Notion, please follow the steps below:
+**In order to create a group in Notion, please follow the steps below:**
 
 **1.** Go to `Settings & Members` at the top of you left-hand sidebar.
 
@@ -95,53 +95,53 @@ In order to create a group in Notion, please follow the steps below:
 <br />
 <br />
 
+To share a page with a specific group, click `Share` on the top right of that page, followed by `Invite` button. Enter your group's name in the search bar and select it to share. Simple!
+
+>![searchGroup](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/searchGroup.png?raw=true "searchGroup")
+<br />
+<br />
+
 ---
 
-## sub heading 4
+## Share with the web
 
-something
+What if the person you want to share a page with does not use Notion? Worry not, you could make a Notion page viewable as a site on the web. Everyone with the link is welcome!
 
----
+**Quick steps for making pages public on the web:**
 
-**1.** step 1
-
-
-<br />
-<br />
-
-**2.** step 2
-
-
-
+**1.** Click on `Share` at the top right of the page.
 
 <br />
-<br />
 
-**3.** step 3
-
+**2.** `Share to web` is toggled off by default.
 
 
 <br />
 
+**3.** By turning on the `Share to web` toggle, anyone with the link can *view* the page.
+- `Allow editing` means anyone with a Notion account can make edits on the page given the page link.
+- `Allow comments` means anyone with a Notion account can leave comments on the page given the page link.
 
 
 <br />
-<br />
 
-**4.** step 4
+**4.** `Allow duplicate as template` let other Notion users to duplicate your page to their own workspace. 
 
-
-<br />
-<br />
-
-**5.** step 5
-
+_**Note: This is on by default**_.
 
 <br />
+
+**5.** `Search engine indexing` makes your page appear in search results on Google and other search engines.
+
+_**Note: This is off by default**_.  _***Paid plans only.**_
+
 <br />
 
-**6.** step 6
+**6.** `Copy link` on the bottom right to copy the page's unique link to share.
 
+_**Note: Only people with this link will be able to see it**_.
+
+>![shareWeb](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareWeb.png?raw=true "shareWeb")
 
 
 <br />

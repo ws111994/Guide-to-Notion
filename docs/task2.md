@@ -79,15 +79,13 @@ Repeat the process to rearrange the categories in order.
 
 3. Add dividers under each categories. 
 
->```
->---
->```
-After selecting the category, press 'enter', then use 3 hyphen to create a divider.
-
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161944665-f9ef6a53-976a-4008-a204-70eca7eb0658.gif)
 
 
-
+>```
+>---
+>```
+After selecting the category, press 'enter', then use 3 hyphen '-' to create a divider under
 
 ---
 

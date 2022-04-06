@@ -10,10 +10,8 @@ permalink: /
 
 Hello there! This documentation is here to help you get started with using Notion to organize your workspace. 
 
-<br>
 Notion is a free project management and note-taking software that will help members in organizations to coordinate deadlines, objectives, and many more with efficiency and productivity. Notion can help you with anything from organizing team documents to creating daily to-do tasks.
 
-<br>
 Let's hop on board to learn how to plan, track, and do all your work in one place!
 
 ---
@@ -41,7 +39,6 @@ There are many other productivity apps out in the market, but many of them are h
 ### Prerequisite Knowledge
 
 1. Users will be required to know how to install an app on their device.
-
 2. Users are expected to know what operating system they are using. 
 3. Users are expected to know how to use email or social media accounts to sign up and register for a Notion account.
 
@@ -56,13 +53,12 @@ There are many other productivity apps out in the market, but many of them are h
 ### Hardware Requirements
 
 **Mac**
-<br>
 macOS 10.13 High Sierra or later (64-bit only)<br>
 Intel Core™ i3 processor or better & Apple M1 processor supported with Rosetta 2<br>
 1 GB RAM (2 GB or more recommended)<br>
 8 GB free hard-drive space<br>
 
-**Windows**<br>
+**Windows**
 Windows Windows 10 x64 or later <br>
 Intel Core™ i3 / AMD A10 processor or better<br>
 1 GB RAM (2 GB or more recommended)<br>
@@ -73,7 +69,6 @@ Intel Core™ i3 / AMD A10 processor or better<br>
 ### Software Versions
 
 This guide uses Notion version 2.15 desktop app on a Mac OS system. 
-
 If you do are on windows machine, order of menus might slightly differ but general procedure will be identical. 
 
 ---
@@ -98,9 +93,7 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 ### Procedures Overview
 
 1. Using Notion with a Template
-
 2. Making Personal Task Boards in Notion
-
 3. Sharing Pages & Collaborating
 
 ---
@@ -112,7 +105,6 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 ### Notes and Restrictions
 
 :ledger:  Indicates additional notes the user needs to pay attention to.
-
 :warning: Indicates certain restrictions to the procedure.
 
 

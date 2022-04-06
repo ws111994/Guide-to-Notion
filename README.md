@@ -3,32 +3,25 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">See it in action!</a></strong></p>
+    <h1 align="center">How to Use Notion</h1>
+    <p align="center">Too many tools? Too much chaos? With Notion, all your work is in one place. Lost Ark Studio present you a easy and simple guide for you to follow in order to fully utilize Notion.</p>
+    <p align="center"><strong><a href="https://ws111994.github.io/lost-ark-studio/">See it in action!</a></strong></p>
     <br><br><br>
 </p>
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+![image](https://user-images.githubusercontent.com/90341253/161979500-2bfeb83a-b4c1-4b29-b679-d45496c8a4ae.png)
 
 ## Installation
 
-### via GitHub Pages remote theme
+### via web version of the Notion
 
-The quickiest way to use Just The Docs is to use GitHub pages [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) feature in your `config.yml` file:
+The quickiest way to use Notion is to use website [remote theme](https://www.notion.so/) 
 
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
-### via RubyGems:
+### Downloading and installing the desktop app:
 
-Alternatively you can install it as a Ruby Gem.
+Alternatively you can install it on your desktop.
 
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "just-the-docs"
-```
+Visit this link to [Dowload Notion](https://www.notion.so/desktop).
 
 And add this line to your Jekyll site's `_config.yml`:
 

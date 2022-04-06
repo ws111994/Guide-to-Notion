@@ -30,7 +30,7 @@ A student in need of good way of organizing notes and tasks.
 
 ## Installation
 
-### via web version of the Notion
+### Via web version of the Notion
 
 The quickiest way to use Notion is to use [Notion](https://www.notion.so/) website.
 <br>

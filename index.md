@@ -53,23 +53,8 @@ Visit this link to [Dowload Notion](https://www.notion.so/desktop).
   ```
 
 2. Making Personal Task Boards in notion
-  ```yaml
-  theme: "just-the-docs"
-  ```
 
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-  ```bash
-  $ bundle exec just-the-docs rake search:init
-  ```
-
-3. Run you local Jekyll server
-  ```bash
-  $ jekyll serve
-  ```
-  ```bash
-  # .. or if you're using a Gemfile (bundler)
-  $ bundle exec jekyll serve
-  ```
+3. Sharing Pages and Collaborating 
 
 ---
 

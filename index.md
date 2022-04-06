@@ -112,8 +112,6 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 ### Notes and Restrictions
 
 
-!!! Info "Model-View-Controller (MVC)"
-    An MVC is a software design pattern that is used to divide all related program logic into three core logical components called the **Model**, **View**, and **Controller**.
 
 !!! warning
 Indicates certain restrictions.

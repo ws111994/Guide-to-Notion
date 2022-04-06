@@ -35,7 +35,7 @@ This is the image of landing page of the Nontion when you open it.
 2. Name your new page with proper name.
 If you want to distingush this task board from other notes, you can assign an icon to it. 
 
-<img width="1519" alt="Screen Shot 2022-04-05 at 10 59 16 PM" src="https://user-images.githubusercontent.com/90341253/161906151-12835a01-90f1-4709-b376-6c1a3ee03762.png">
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161932543-15030bd3-b99e-4ca8-802a-ac6e3445f4e6.gif)
 
 After creating the new page with proper title and with a icon, you will be able to locate it on the side bar on the left of the Notion.
 

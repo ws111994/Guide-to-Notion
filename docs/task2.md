@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating task board
+title: Making Personal Task Boards in Notion
 nav_order: 5
 ---
 

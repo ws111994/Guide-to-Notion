@@ -8,12 +8,13 @@ permalink: /
 
 ## Introduction
 
-Hello there!
-The purpose of this document is to help you get started with using Notion. The sections in this guide will get things tolling for you to learn basic functionality of Notion.
+Hello there! This documentation is here to help you get started with using Notion to organize your workspace. 
+
 <br>
-Notion is a free project management and note-taking software that will help members in organizations to coordinate deadlines, objectives, and many more with efficiency and productivity.
+Notion is a free project management and note-taking software that will help members in organizations to coordinate deadlines, objectives, and many more with efficiency and productivity. Notion can help you with anything from organizing team documents to creating daily to-do tasks.
+
 <br>
-Plan, track, and do all your work in one place. Steer the ship together!
+Let's hop on board to learn how to plan, track, and do all your work in one place!
 
 ---
 
@@ -40,18 +41,22 @@ There are many other productivity apps out in the market, but many of them are h
 ### Prerequisite Knowledge
 
 1. Users will be required to know how to install an app on their device.
-2. Users are expected to konw what operating system they are using. 
+
+2. Users are expected to know what operating system they are using. 
+3. Users are expected to know how to use email or social media accounts to sign up and register for a Notion account.
 
 ---
 
 ### Software Requirements
-1. Users are are required to have Windos or Mac OS as their operating system
+1. Users are are required to have Windows or Mac OS as their operating system
 2. The guide will be created based on MacOS version of Notion.
 
 ---
 
 ### Hardware Requirements
-**Mac**<br>
+
+**Mac**
+<br>
 macOS 10.13 High Sierra or later (64-bit only)<br>
 Intel Core™ i3 processor or better & Apple M1 processor supported with Rosetta 2<br>
 1 GB RAM (2 GB or more recommended)<br>
@@ -65,7 +70,7 @@ Intel Core™ i3 / AMD A10 processor or better<br>
 
 ---
 
-## Software Versions
+### Software Versions
 
 This guide uses Notion version 2.15 desktop app on a Mac OS system. 
 
@@ -73,55 +78,38 @@ If you do are on windows machine, order of menus might slightly differ but gener
 
 ---
 
-## Installation
+### Installation
 
-### Via web version of the Notion
+ **Via web version of the Notion:**
 
-The quickiest way to use Notion is to use [Notion](https://www.notion.so/) website.
+The quickiest way to use Notion is to use the [Notion](https://www.notion.so/) website.
+
 <br>
 
-### Downloading and installing the desktop app:
+**Downloading and installing the desktop app:**
 
 Alternatively you can install it on your desktop.
-
 This guide will be based on desktop app of Notion.
 
 Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ---
 
-## Procedures Overview
+### Procedures Overview
 
-1. Install the Notion
+1. Using Notion with a Template
 
-2. Using Notion with a Template
+2. Making Personal Task Boards in Notion
 
-3. Making Personal Task Boards in notion
-
-4. Sharing Pages and Collaborating
+3. Sharing Pages & Collaborating
 
 ---
 
-## About the project
 
-Notion User Guide is &copy; 2022-{{ "now" | date: "%Y" }} by Lost Ark Studio.
+### Typographical Conventions
+> A typography like   `this`   indicates an interactive element on the webpage that requires the user to click.
 
-### License
+### Notes and Restrictions
+!!! Info Indicates additional notes the user needs to pay attention to.
+!!! warning Indicates certain restrictions.
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
-### About our team.
-
-
-
-#### Thank you for checking out Lost Ark Studio!
-
-<ul class="list-style-none">
-
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.

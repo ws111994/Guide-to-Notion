@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Utilizing Templates
+title: Using Notion with a Template
 nav_order: 4
 ---
 
@@ -17,10 +17,9 @@ Here we will explore and learn how to find and use in-app templates and how to i
 
 ### Table of Contents
 
-* Starter Templates
-* Find and Use In-App Templates
-* Import Community-Made Templates
-* Removing a Template
+{: .no_toc .text-delta }
+* TOC
+{:toc}
 
 
 ---

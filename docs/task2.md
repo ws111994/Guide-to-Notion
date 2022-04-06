@@ -26,7 +26,7 @@ Users can manage their tasks however they want witih notion.
 There are 2 ways to construct a task board in notion and this guide will show you both ways - one that's more lightweight, and one with more features and functionality.
 
 
-#### Example
+## Example
 
 {: .no_toc }
 

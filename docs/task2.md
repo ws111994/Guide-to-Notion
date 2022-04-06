@@ -8,7 +8,7 @@ nav_order: 5
 
 ![image](https://user-images.githubusercontent.com/90341253/161876472-1e94ec7f-2203-41cb-8292-ad6aabc4d706.png)
 
-In notion, creating task board is simple. With the task board, it is easy to plan, track, and do all your work in one place. By alongside all your notes, 
+In Notion, creating task board is simple. With the task board, it is easy to plan, track, and do all your work in one place. By alongside all your notes, you will be able to easily access your task board to keep you on tack.
 
 ---
 
@@ -23,10 +23,19 @@ In notion, creating task board is simple. With the task board, it is easy to pla
 
 Notion is user friednly app that will not let user get lost when you try to make a new page. In order to make a task board on Notion, you will need to create a new page.
 
-This is the image of landing page of the Nontion when you open it. You can locate the '+ New page' at the bottom left of the app. 
+This is the image of landing page of the Nontion when you open it. You can locate the '+ New page' at the bottom left of the app. To create a new page, you can simply click to initialize the new page on your Notion.
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 
+This is an image of your starting page on Notoin. (It might look different depending on what you already have on your local machine, but the location of the '+ New page' will be at the same place.)
+
+Now lets give this new page a name. If you want to distingush this task board from other notes, you can assign an icon to it. 
+
+<img width="1519" alt="Screen Shot 2022-04-05 at 10 59 16 PM" src="https://user-images.githubusercontent.com/90341253/161906151-12835a01-90f1-4709-b376-6c1a3ee03762.png">
+
+After creating the new page with proper title and with a icon, you will be able to locate it on the side bar on the left of the Notion.
+
+<img width="1521" alt="Screen Shot 2022-04-05 at 11 08 13 PM" src="https://user-images.githubusercontent.com/90341253/161906749-39b48b23-6734-4bbd-9f7a-f776185cbe01.png">
 
 
 ## Example

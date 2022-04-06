@@ -23,7 +23,8 @@ In Notion, creating task board is simple. With the task board, it is easy to pla
 
 Notion is user friednly app that will not let user get lost when you try to make a new page. In order to make a task board on Notion, you will need to create a new page.
 
-This is the image of landing page of the Nontion when you open it. You can locate the '+ New page' at the bottom left of the app. To create a new page, you can simply click to initialize the new page on your Notion.
+This is the image of landing page of the Nontion when you open it. 
+1. Create a new page by clicking'+ New page' at the bottom left of the app. 
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 

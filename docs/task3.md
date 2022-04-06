@@ -135,7 +135,26 @@ _**Note: Only people with this link will be able to see it**_.
 
 >![shareWeb](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareWeb.png?raw=true "shareWeb")
 
+---
 
-ending phrase
+## Security settings for sharing
 
+_*Enterprise Plan subscription only._
 
+For enterprise usage, sometimes certain pages should not be shared by colleagues. As an admin in the workspace, you are able to prevent certain content being shared through `Security` settings page. 
+
+**1.** Go to `Settings & Members` at the top of left sidebar.
+
+**2.** Click `Security & identity` section.
+
+**3.** `Security` tab has various toggles for different senarios.
+
+>![shareSecurity](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareSecurity.png?raw=true "shareSecurity")
+
+Voila! Now you have mastered different ways of sharing your carefully crafted Notion pages! Use Notion's flexibility to collaborate with others and make wonder!
+
+<br />
+<br />
+_Have some problems following the steps? Head to our [Troubleshooting page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
+
+_Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

@@ -2,15 +2,27 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+has_children: false
 permalink: /
 ---
 
 ## Introduction
 
-Hello there! This documentation will help you use Notion to the fullest. The goal of this document is to provide a complete walkthrough that will make you a pro Notion users at the end. We will also provide small tips and tricks to optimize your workflow when you are using Notion.
-
+Hello there!
+The purpose of this document is to help you get started with using Notion. The sections in this guide will get things tolling for you to learn basic functionality of Notion.
+<br>
+Notion is a free project management and note-taking software that will help members in organizations to coordinate deadlines, objectives, and many more with efficiency and productivity.
+<br>
 Plan, track, and do all your work in one place. Steer the ship together!
+
+---
+
+### Table of contents
+{: .no_toc .text-delta }
+* TOC
+{:toc}
+
+---
 
 ### Intended Users
 

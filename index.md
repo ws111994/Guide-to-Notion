@@ -45,6 +45,12 @@ There are many other productivity apps out in the market, but many of them are h
 2. Enough storage, ram and internet connection is required for installation and syncing your Notion.
 3. The guide will be created based on MacOS version of Notion.
 
+## Software Versions
+
+This guide uses Notion 2.15 desktop app on a Mac OS system. 
+
+If you do are on windows machine, order of menus might slightly differ but general procedure will be identical. 
+
 ## Installation
 
 ### Via web version of the Notion
@@ -60,7 +66,7 @@ This guide will be based on desktop app of Notion.
 
 Visit this link to [Download Notion](https://www.notion.so/desktop).
 
-### Procedures Overview
+## Procedures Overview
 
 1. Install the Notion
   ```bash

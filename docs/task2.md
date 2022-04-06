@@ -22,6 +22,7 @@ It is simple to plan, track, and do all your work in one place with notion. This
 ## Ordering pages
 
 Users can manage their tasks however they want witih notion.
+
 There are 2 ways to construct a task board in notion and this guide will show you both ways - one that's more lightweight, and one with more features and functionality.
 
 

@@ -8,7 +8,7 @@ nav_order: 5
 
 ![image](https://user-images.githubusercontent.com/90341253/161876472-1e94ec7f-2203-41cb-8292-ad6aabc4d706.png)
 
-It is simple to plan, track, and do all your work in one place with notion. This guide will lead you step by step.
+In notion, creating task board is simple. With the task board, it is easy to plan, track, and do all your work in one place. By alongside all your notes, 
 
 ---
 
@@ -19,11 +19,14 @@ It is simple to plan, track, and do all your work in one place with notion. This
 
 ---
 
-## Ordering pages
+## Creating New Page
 
-Users can manage their tasks however they want witih notion.
+Notion is user friednly app that will not let user get lost when you try to make a new page. In order to make a task board on Notion, you will need to create a new page.
 
-There are 2 ways to construct a task board in notion and this guide will show you both ways - one that's more lightweight, and one with more features and functionality.
+This is the image of landing page of the Nontion when you open it. You can locate the '+ New page' at the bottom left of the app. 
+
+<img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
+
 
 
 ## Example

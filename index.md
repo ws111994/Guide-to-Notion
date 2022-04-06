@@ -52,14 +52,14 @@ Intel Core™ i3 processor or better & Apple M1 processor supported with Rosetta
 8 GB free hard-drive space<br>
 
 **Windows**<br>
-Windows Windows 10 x64<br>
+Windows Windows 10 x64 or later <br>
 Intel Core™ i3 / AMD A10 processor or better<br>
 1 GB RAM (2 GB or more recommended)<br>
 8 GB free hard-drive space<br>
 
 ## Software Versions
 
-This guide uses Notion 2.15 desktop app on a Mac OS system. 
+This guide uses Notion version 2.15 desktop app on a Mac OS system. 
 
 If you do are on windows machine, order of menus might slightly differ but general procedure will be identical. 
 
@@ -81,9 +81,7 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 ## Procedures Overview
 
 1. Install the Notion
-  ```bash
-  https://www.notion.so/desktop
-  ```
+
 2. Using Notion with a Template
 
 3. Making Personal Task Boards in notion

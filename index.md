@@ -47,16 +47,16 @@ There are many other productivity apps out in the market, but many of them are h
 
 ### Hardware Requirements
 **Mac®**
-macOS® 10.13 High Sierra or later (64-bit only)
-Intel® Core™ i3 processor or better & Apple M1 processor supported with Rosetta 2
-1 GB RAM (2 GB or more recommended)
-8 GB free hard-drive space
+macOS® 10.13 High Sierra or later (64-bit only)<br>
+Intel® Core™ i3 processor or better & Apple M1 processor supported with Rosetta 2<br>
+1 GB RAM (2 GB or more recommended)<br>
+8 GB free hard-drive space<br>
 
 **Windows**
-Windows® Windows 10 x64
-Intel® Core™ i3 / AMD A10 processor or better
-1 GB RAM (2 GB or more recommended)
-8 GB free hard-drive space
+Windows® Windows 10 x64<br>
+Intel® Core™ i3 / AMD A10 processor or better<br>
+1 GB RAM (2 GB or more recommended)<br>
+8 GB free hard-drive space<br>
 
 ## Software Versions
 

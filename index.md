@@ -97,7 +97,10 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 ### Typographical Conventions
 > A typography like `this` indicates an interactive element on the webpage that requires the user to click.<br>
 > A typography like **[this]** indicates a keystroke.<br>
-> A typography like ```this``` indicates a typing input. <br>
+> A typography as follows indicates a typing input:<br>
+>```
+>this
+>``` 
 
 
 ### Notes and Restrictions

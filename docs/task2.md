@@ -62,7 +62,7 @@ After creating new page, you will now need to add heading to create categories.
 <br>
 
 Alternatively, you can use markdown syntax to create the headings.
-You can use ```##``` followed by single **[space]** press, you will be able to create a heading 2 like so:
+You can use double **[#]** followed by single **[space]** press, you will be able to create a heading 2 like so:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161974307-44479716-a2e4-4dbd-b1f0-8e37203da19c.gif)
 
@@ -96,7 +96,7 @@ Repeat this process to rearrange the categories in order.
 >```
 > ---
 >```
-After selecting the category, press **[Return]**, then use 3 hyphens ```-``` to create a divider under.
+After selecting the category, press **[Return]**, then use 3 hyphens **[-]** to create a divider under.
 
 <br>
 
@@ -120,7 +120,7 @@ Input the following words and press **[Return]** to create To-Do list.
 
 
 
-> :ledger: You can type ```[]``` to create To-Do list faster.
+> :ledger: You can type **[[]** and **[]]** to create To-Do list faster.
 
 2. Add reminders to the To-Do list
 

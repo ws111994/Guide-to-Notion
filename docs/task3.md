@@ -32,16 +32,16 @@ First, here's a quick tour of the Share menu, which can be clicked at the top ri
 
 
 In order to access the share functionality, the `Share` button can be clicked at the top right of your page. On mobile, an `•••` button can be seen at the same spot.
->![share](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "share")
+>![share](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "share your notion page")
 
 This is an example for different parties that may have access to this page. 
->![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "shareExample")
+>![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "sharing page example")
 
 A few things to note here:
-- `Share to web` is turned off
-- The dropdown menus on the right let you set their level of access.
-- `Copy link` copies the page's unique URL to your clipboard so you can share it with whoever you want. 
-- `Invite` button will add people both inside or outside you workspace to a page by their email address.
+> - `Share to web` is turned off
+> - The dropdown menus on the right let you set their level of access.
+> - `Copy link` copies the page's unique URL to your clipboard so you can share it with whoever you want. 
+> - `Invite` button will add people both inside or outside you workspace to a page by their email address.
 
 ---
 
@@ -49,12 +49,12 @@ A few things to note here:
 
 You can share the current Notion page with other people by adding their email address in the share menu. Target group could be individual person, a group specified in Notion contact, or within certain workspace.
 
-After clicking the `Invite` button on the top right, this submenu will pop up. Enter the email address to add them to the shared list.
->![addPeople](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/addPeople.png?raw=true "addPeople")
+After clicking the `Invite` button on the top right, this sub-menu will pop up. Enter the email address to add them to the shared list.
+>![addPeople](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/addPeople.png?raw=true "invite people to the list ")
 
  the dropdown menu to the left of `Invite` button provides different access level to the shared page.
 
->![dropDown](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/dropDown.png?raw=true "dropDown")
+>![dropDown](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/dropDown.png?raw=true "drop Down menu access to shared page")
 
 When you are ready to share the page, click the `Invite` button will send an email to target email address with a share link to access the current page. Or you can click the `Copy link` on the bottom right and send the url manually.
 

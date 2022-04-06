@@ -70,27 +70,27 @@ To make it easier to share with commonly-used groups (i.e. your study group or w
 
 > :note: In order to create a group in Notion, please follow the steps below.
 
-1. Go to `Settings & Members` at the top of you left-hand sidebar.
+**1.** Go to `Settings & Members` at the top of you left-hand sidebar.
 
 >![settings](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/settings.png?raw=true "settings")
 <br />
 <br />
 
-2. Select the `Members` tab in the sidebar.
+**2.** Select the `Members` tab in the sidebar.
 
 
 
-3. Select the `Groups` header.
+**3.** Select the `Groups` header.
 
 
 
-4. Click `Create a group`. Name and icon of the group is customizable.
+**4.** Click `Create a group`. Name and icon of the group is customizable.
 
 
-5. Under the new group, click `Add members` to add as many members as you want.
+**5.** Under the new group, click `Add members` to add as many members as you want.
 
 
-6. You can also `Remove` any group member.
+**6.** You can also `Remove` any group member.
 
 >![shareGroup](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareGroup.png?raw=true "shareGroup")
 <br />
@@ -109,28 +109,28 @@ To share a page with a specific group, click `Share` on the top right of that pa
 What if the person you want to share a page with does not use Notion? Worry not, you could make a Notion page viewable as a site on the web. Everyone with the link is welcome!
 
 
-1. Click on `Share` at the top right of the page.
+**1.** Click on `Share` at the top right of the page.
 
-2. `Share to web` is toggled off by default.
+**2.** `Share to web` is toggled off by default.
 
 
-3. By turning on the `Share to web` toggle, anyone with the link can view the page.
+**3.** By turning on the `Share to web` toggle, anyone with the link can view the page.
 > - `Allow editing` means anyone with a Notion account can make edits on the page given the page link.
 > - `Allow comments` means anyone with a Notion account can leave comments on the page given the page link.
 
 
-4. `Allow duplicate as template` let other Notion users to duplicate your page to their own workspace. 
+**4.** `Allow duplicate as template` let other Notion users to duplicate your page to their own workspace. 
 
 > :ledger: This is on by default
 
 
-5. `Search engine indexing` makes your page appear in search results on Google and other search engines.
+**5.** `Search engine indexing` makes your page appear in search results on Google and other search engines.
 
 > :ledger: This is off by default. <br>
 > :warning: Paid plans only.
 
 
-6. `Copy link` on the bottom right to copy the page's unique link to share.
+**6.** `Copy link` on the bottom right to copy the page's unique link to share.
 
 > :ledger: Only people with this link will be able to see it.
 
@@ -144,11 +144,11 @@ What if the person you want to share a page with does not use Notion? Worry not,
 
 For enterprise usage, sometimes certain pages should not be shared by colleagues. As an admin in the workspace, you are able to prevent certain content being shared through `Security` settings page. 
 
-1. Go to `Settings & Members` at the top of left sidebar.
+**1.** Go to `Settings & Members` at the top of left sidebar.
 
-2. Click `Security & identity` section.
+**2.** Click `Security & identity` section.
 
-3. `Security` tab has various toggles for different senarios.
+**3.** `Security` tab has various toggles for different senarios.
 
 >![shareSecurity](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareSecurity.png?raw=true "shareSecurity")
 

@@ -28,14 +28,14 @@ Creating a task board in notion is simple. With the task board, it is easy to pl
 
 In order to create your task board, you will need to create a new page. Creating a new page in Notion is easy!
 
-1. Create a new page by clicking `+ New page` at the bottom left of the app. 
+**1.** Create a new page by clicking `+ New page` at the bottom left of the app. 
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 
 > :ledger: Your Notion can appear different depending on what you already have on your local machine, but the location of the `+ New page` will be at the same place.
 
 
-2. Name your new page with proper name.
+**2.** Name your new page with proper name.
 If you want to distingush this task board from other notes, you can assign an icon to it. 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161932543-15030bd3-b99e-4ca8-802a-ac6e3445f4e6.gif)
@@ -52,7 +52,7 @@ After creating the new page with proper title and with a icon, you will be able 
 ### Creating the Category
 
 After creating new page, you will now need to add heading to create categories. 
-1. Type the following to create category, then name the catagory.
+**1.** Type the following to create category, then name the category.
 >```
 > /heading 2
 >```
@@ -91,7 +91,7 @@ Repeat this process to rearrange the categories in order.
 
 <br>
 
-**3.** Add dividers under each categories.
+**3.** Add dividers under each categories by inputting the following:
 
 >```
 > ---
@@ -108,9 +108,9 @@ After selecting the category, press **[Return]**, then use 3 hyphens **[-]** to 
 
 After creating appropriate columns of categories, you will add list of things to do under those categories.
 
-1. Add the To-Do list
+**1.** Adding a To-Do list
 
-Input the following words and press **[Return]** to create To-Do list.
+Input the following words and press **[Return]** to create a To-Do list.
 
 >```
 >/to-do 
@@ -122,7 +122,7 @@ Input the following words and press **[Return]** to create To-Do list.
 
 > :ledger: You can type **[[]** and **[]]** to create To-Do list faster.
 
-2. Add reminders to the To-Do list
+**2.** Adding Reminders to the To-Do list
 
 Input the following in the same field as To-Do list to add reminder.
 
@@ -136,21 +136,21 @@ You can replace the 'date' and 'time' to desired date and time
 
 ---
 
-## Creating Archive Page to Store the Completed Tasks
+## Creating an Archive Page to Store the Completed Tasks
 
-1. Create new page inside your task board.
+**1.** Create new page inside your task board.
 
-Click on the top of the page and input this follwowing command in your Notion and press **[Return]** .
+Click on the top of the page and input the following command in your Notion and press **[Return]** .
 
 >```
 > /page
 >```
 
-Then name the new page "Archive" with icon of your choice.
+**2.** Then name the new page "Archive" with icon of your choice.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161975554-757f2695-f574-4fb2-853e-84ec045796ab.gif)
 
-This will create Archive page in your task board and you can drag and drop your completed To-Do in it.
+**3.** Drag and drop your completed To-Do into the "Archive" page.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161976064-308829ce-28e8-401c-929f-73d83f8ba515.gif)
 

@@ -105,7 +105,7 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ### Notes and Restrictions
 
-:ledger:  Indicates additional notes the user needs to pay attention to.<br>
-:warning: Indicates certain restrictions to the procedure.
+> :ledger:  Indicates additional notes the user needs to pay attention to.<br>
+> :warning: Indicates certain restrictions to the procedure.
 
 

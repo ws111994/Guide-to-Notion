@@ -47,9 +47,10 @@ After creating the new page with proper title and with a icon, you will be able 
 
 ### Creating the category by adding heading  
 
-After creating new page, you will now need to add heading to create categories. By typing '/heading 2' you will be able to create and name your catagory.
+After creating new page, you will now need to add heading to create categories. 
+1. Typing '/heading 2' to create category, then name the catagory.
 
-<img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161909782-afec0a35-b651-4f6b-8c00-b93bd47bf328.png">
+<img width="1517" alt="Screen Shot 2022-04-05 at 11 28 58 PM" src="https://user-images.githubusercontent.com/90341253/161932980-8e61a351-7ae0-41c2-88de-ed15954d6823.png">
 
 Alternatively, you can use markdown syntax to create the headings.</br> If you use '##' followed by single 'space' press, you will be able to create a heading 2.
 
@@ -60,7 +61,11 @@ Alternatively, you can use markdown syntax to create the headings.</br> If you u
 To have a better visual representation, the categories will need to be arranged horizontally on your Notion. 
 In order to achieve this, you will need to click and grab the second category. Then you 'drag and drop' to the right of the first category.
 
-To help you with arranging the categories, here is the sample GIF to provide visual representation of how 'drag and drop' works on Notion.
+1. Click on the '6 dot icon' and drag and drop the category right to the first category.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161934666-d0a2f6fc-db30-4444-936e-5ea6630ac234.gif)
+
+*Visual representation of how 'drag and drop' works on Notion.*
 
 
 

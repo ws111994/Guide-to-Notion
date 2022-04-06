@@ -24,12 +24,12 @@ In Notion, creating task board is simple. With the task board, it is easy to pla
 Notion is user friednly app that will not let user get lost when you try to make a new page. In order to make a task board on Notion, you will need to create a new page.
 
 This is the image of landing page of the Nontion when you open it. 
-1. Create a new page by clicking'+ New page' at the bottom left of the app. 
+1. Create a new page by clicking `+ New page` at the bottom left of the app. 
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 
 ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
-> **Note:** Your Notion can appear different depending on what you already have on your local machine, but the location of the '+ New page' will be at the same place.
+> **Note:** Your Notion can appear different depending on what you already have on your local machine, but the location of the `+ New page` will be at the same place.
 
 
 2. Name your new page with proper name.
@@ -45,23 +45,24 @@ After creating the new page with proper title and with a icon, you will be able 
 ## Customizing the task board
 
 
-### Creating the category by adding heading  
+### Creating the category
 
 After creating new page, you will now need to add heading to create categories. 
-1. Type '/heading 2' to create category, then name the catagory.
+1. Type `/heading 2` to create category, then name the catagory.
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 11 28 58 PM" src="https://user-images.githubusercontent.com/90341253/161932980-8e61a351-7ae0-41c2-88de-ed15954d6823.png">
 
-Alternatively, you can use markdown syntax to create the headings.</br> If you use '##' followed by single 'space' press, you will be able to create a heading 2.
+Alternatively, you can use markdown syntax to create the headings.
+If you use `##` followed by single `space` press, you will be able to create a heading 2.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161910882-59bea58d-a861-446d-a231-3d26d180f94b.gif)
 
 ### Arranging the categories 
 
 To have a better visual representation, the categories will need to be arranged horizontally on your Notion. 
-In order to achieve this, you will need to click and grab the second category. Then you 'drag and drop' to the right of the first category.
+In order to achieve this, you will need to click and grab the second category. Then you drag and drop to the right of the first category.
 
-1. Click on the '6 dot icon' and drag and drop the category right to the first category.
+1. Click on the 6 dot icon and drag and drop the category right to the first category.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161934666-d0a2f6fc-db30-4444-936e-5ea6630ac234.gif)
 
@@ -69,11 +70,11 @@ In order to achieve this, you will need to click and grab the second category. T
 
 Repeat the process to rearrange the categories in order.
 
-2. Locate the '•••' and select 'Full width'.
+2. Locate the `•••` and select `Full width`.
 
 <img width="1636" alt="Screen Shot 2022-04-06 at 2 19 13 AM" src="https://user-images.githubusercontent.com/90341253/161942013-71aceecc-a274-4873-b642-053aaca40a2e.png">
 
-*You can locate the '•••' button on the right top corner of the Notion.*
+*You can locate the `•••` button on the right top corner of the Notion.*
 
 <img width="1636" alt="Screen Shot 2022-04-06 at 2 23 00 AM" src="https://user-images.githubusercontent.com/90341253/161942725-4017f73c-a879-4518-adfb-ee2d211b348b.png">
 
@@ -83,32 +84,25 @@ Repeat the process to rearrange the categories in order.
 
 
 >```
->---
+> ---
 >```
-After selecting the category, press 'enter', then use 3 hyphen '-' to create a divider under
+After selecting the category, press `enter`, then use 3 hyphen `-` to create a divider under
 
 ---
 
-## Excluding pages
+## Creating To-Do lists
 
-For specific pages that you do not wish to include in the main navigation, e.g. a 404 page or a landing page, use the `nav_exclude: true` parameter in the YAML front matter for that page.
+After creating appropriate columns of categories, you will add list of things to do under those categories.
 
-#### Example
+1. Add the To-Do list
 
-{: .no_toc }
+Input the following words to create To-Do list.
 
-```yaml
----
-layout: default
-title: 404
-nav_exclude: true
----
+>```
+>/to-do `enter`
+>```
 
-```
 
-The `nav_exclude` parameter does not affect the [auto-generating list of child pages](#auto-generating-table-of-contents), which you can use to access pages excluded from the main navigation.
-
-Pages with no `title` are automatically excluded from the navigation.
 
 ---
 

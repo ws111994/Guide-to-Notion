@@ -111,7 +111,11 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ### Notes and Restrictions
 
+<<<<<<< HEAD
 :ledger:  Indicates additional notes the user needs to pay attention to.
+=======
+
+>>>>>>> e836838fcd2d8ec2348ca86e4245ff9c28ab23e2
 
 :warning: Indicates certain restrictions to the procedure.
 

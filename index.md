@@ -35,14 +35,20 @@ There are many other productivity apps out in the market, but many of them are h
 * create, modify, your own task board, and
 * sharing pages and collaborating with other users.
 
+---
+
 ### Prerequisite Knowledge
 
 1. Users will be required to know how to install an app on their device.
 2. Users are expected to konw what operating system they are using. 
 
+---
+
 ### Software Requirements
 1. Users are are required to have Windos or Mac OS as their operating system
 2. The guide will be created based on MacOS version of Notion.
+
+---
 
 ### Hardware Requirements
 **Mac**<br>
@@ -57,11 +63,15 @@ Intel Core™ i3 / AMD A10 processor or better<br>
 1 GB RAM (2 GB or more recommended)<br>
 8 GB free hard-drive space<br>
 
+---
+
 ## Software Versions
 
 This guide uses Notion version 2.15 desktop app on a Mac OS system. 
 
 If you do are on windows machine, order of menus might slightly differ but general procedure will be identical. 
+
+---
 
 ## Installation
 
@@ -77,6 +87,8 @@ Alternatively you can install it on your desktop.
 This guide will be based on desktop app of Notion.
 
 Visit this link to [Download Notion](https://www.notion.so/desktop).
+
+---
 
 ## Procedures Overview
 

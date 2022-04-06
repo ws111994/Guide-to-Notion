@@ -60,12 +60,13 @@ After creating new page, you will now need to add heading to create categories.
 Alternatively, you can use markdown syntax to create the headings.
 If you use `##` followed by single `space` press, you will be able to create a heading 2.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161910882-59bea58d-a861-446d-a231-3d26d180f94b.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161974307-44479716-a2e4-4dbd-b1f0-8e37203da19c.gif)
 
 ### Arranging the categories 
 
 To have a better visual representation, the categories will need to be arranged horizontally on your Notion. 
 In order to achieve this, you will need to click and grab the second category. Then you drag and drop to the right of the first category.
+
 
 1. Click on the 6 dot icon and drag and drop the category right to the first category.
 
@@ -73,7 +74,8 @@ In order to achieve this, you will need to click and grab the second category. T
 
 *Blue lines are there to guide you where it will land.*
 
-Repeat the process to rearrange the categories in order.
+Repeat this process to rearrange the categories in order.
+
 
 2. Locate the `•••` and select `Full width`.
 
@@ -83,15 +85,18 @@ Repeat the process to rearrange the categories in order.
 
 <img width="1636" alt="Screen Shot 2022-04-06 at 2 23 00 AM" src="https://user-images.githubusercontent.com/90341253/161942725-4017f73c-a879-4518-adfb-ee2d211b348b.png">
 
-3. Add dividers under each categories. 
+<br>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161944665-f9ef6a53-976a-4008-a204-70eca7eb0658.gif)
-
+3. Add dividers under each categories.
 
 >```
 > ---
 >```
-After selecting the category, press `enter`, then use 3 hyphen `-` to create a divider under
+After selecting the category, press `enter`, then use 3 hyphen `-` to create a divider under.
+
+<br>
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161944665-f9ef6a53-976a-4008-a204-70eca7eb0658.gif)
 
 ---
 
@@ -140,7 +145,13 @@ Click on the top of the page and input this follwowing command in your Notion an
 
 Then name the new page "Archive" with icon of your choice.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161975554-757f2695-f574-4fb2-853e-84ec045796ab.gif)
 
+This will create Archive page in your task board and you can drag and drop your completed To-Do in it.
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161976064-308829ce-28e8-401c-929f-73d83f8ba515.gif)
+
+*Congratulations! You can now create your own task board in Notion.*
 
 
 

@@ -24,25 +24,32 @@ It is easy to share the documents and all of the added templates. As a result, N
 
 ## Share menu
 
+
 Notion is built to be super collaborative, so there's a number of ways to share the content you create with other people. Our permission levels ensure that they access this content exactly the way you want them to.
 
 First, here's a quick tour of the Share menu, which can be clicked at the top right of your page. On mobile, click the share icon next to the ••• at the top right for the same options.
 
-
+<br />
+<br />
 
 In order to access the share functionality, the `Share` button can be clicked at the top right of your page. On mobile, an `•••` button can be seen at the same spot.
 >![something](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "something")
 
 This is an example for different parties that may have access to this page. 
 >![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "shareExample")
-- Share to web is turned off
+- `Share to web` is turned off
 - The dropdown menus on the right let you set their level of access.
 - `Copy link` copies the page's unique URL to your clipboard so you can share it with whoever you want. 
+- `Invite` button will add people both inside or outside you workspace to a page by their email address.
 
 
-## sub heading 2
+<br /><br />
+## Share with members
 
-something
+You can share the current Notion page with other people by adding their email address in the share menu. Target group could be individual person, a group specified in Notion contact, or within certain workspace.
+
+After clicking the `Invite` button on the top right, this submenu will pop up. Enter the email address to add them to the list of shared contacts. the dropdown menu to the left of `Invite` button provides different access level to the shared page.
+>![addPeople](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/addPeople.png?raw=true "addPeople")
 > **Note:** this is a note
 
 ---

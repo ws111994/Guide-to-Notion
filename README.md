@@ -15,7 +15,7 @@
 
 ### via web version of the Notion
 
-The quickiest way to use Notion is to use website [remote theme](https://www.notion.so/) 
+The quickiest way to use Notion is to use [Notion](https://www.notion.so/) website
 
 <br>
 <br>

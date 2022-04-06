@@ -15,14 +15,14 @@ It is easy to share the documents and all of the added templates. As a result, N
 
 ---
 
-### Table of contents
+### Table of Contents
 {: .no_toc .text-delta }
 * TOC
 {:toc}
 
 ---
 
-## Share menu
+## Share Menu
 
 
 Notion is built to be super collaborative, so there's a number of ways to share the content you create with other people. Our permission levels ensure that they access this content exactly the way you want them to.
@@ -44,7 +44,7 @@ This is an example for different parties that may have access to this page.
 
 
 
-## Share with individual
+## Share with Individual
 
 You can share the current Notion page with other people by adding their email address in the share menu. Target group could be individual person, a group specified in Notion contact, or within certain workspace.
 
@@ -61,7 +61,7 @@ When you are ready to share the page, click the `Invite` button will send an ema
 
 ---
 
-## Share with a group
+## Share with a Group
 
 To make it easier to share with commonly-used groups (i.e. your study group or work group), you can create different groups in Notion and add different members to desired groups. 
 
@@ -103,7 +103,7 @@ To share a page with a specific group, click `Share` on the top right of that pa
 
 ---
 
-## Share with the web
+## Share with the Web
 
 What if the person you want to share a page with does not use Notion? Worry not, you could make a Notion page viewable as a site on the web. Everyone with the link is welcome!
 
@@ -137,7 +137,7 @@ _**Note: Only people with this link will be able to see it**_.
 
 ---
 
-## Security settings for sharing
+## Security Settings for Sharing
 
 _*Enterprise Plan subscription only._
 

@@ -24,11 +24,16 @@ Plan, track, and do all your work in one place. Steer the ship together!
 
 ---
 
-### Intended Users
+### Who is this guide for
 
-This documentation is targeted towards the following users:
+This documentation is targeted for users with basic computer knowledge.
 
-A student in need of good way of organizing notes and tasks.
+There are many other productivity apps out in the market, but many of them are hard to use or not free. If you are looking for a good, cost free productivity app, this guide will provide you with simple instructions and teaches you basic notion functionality and features. By the end of this guide, you will learn how to use the notion to:
+
+* installing Notion or using it on web version,
+* using Notion with a template,
+* create, modify, your own task board, and
+* sharing pages and collaborating with other users.
 
 ### Prerequisite Knowledge
 
@@ -37,7 +42,7 @@ A student in need of good way of organizing notes and tasks.
 
 ### Software Requirements
 1. Users are are required to have Windos or Mac OS as their operating system
-2. Enough storage, ram and internet connection is required for installation and syncing.
+2. Enough storage, ram and internet connection is required for installation and syncing your Notion.
 3. The guide will be created based on MacOS version of Notion.
 
 ## Installation

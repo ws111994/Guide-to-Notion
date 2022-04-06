@@ -27,7 +27,9 @@ This is the image of landing page of the Nontion when you open it. You can locat
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 
-This is an image of your starting page on Notoin.<br> **It might look different depending on what you already have on your local machine, but the location of the '+ New page' will be at the same place.**
+This is an image of your starting page on Notoin.<br> 
+![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+> **Note:** Your Notion can appear different depending on what you already have on your local machine, but the location of the '+ New page' will be at the same place.
 
 Now lets give this new page a name. If you want to distingush this task board from other notes, you can assign an icon to it. 
 
@@ -50,6 +52,13 @@ After creating new page, you will now need to add heading to create categories. 
 Alternatively, you can use markdown syntax to create the headings.</br> If you use '##' followed by single 'space' press, you will be able to create a heading 2.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161910882-59bea58d-a861-446d-a231-3d26d180f94b.gif)
+
+### Arranging the categories 
+
+To have a better visual representation, the categories will need to be arranged horizontally on your Notion. 
+In order to achieve this, you will need to click and grab the second category. Then you 'drag and drop' to the right of the first category.
+
+To help you with arranging the categories, here is the sample GIF to provide visual representation of how 'drag and drop' works on Notion.
 
 
 

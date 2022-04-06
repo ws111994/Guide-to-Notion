@@ -10,6 +10,7 @@ nav_order: 5
 
   </summary>
 
+It is simple to plan, track, and do all your work in one place with notion.
 ---
 
 ## Visualize everything you need to do

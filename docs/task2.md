@@ -41,6 +41,17 @@ After creating the new page with proper title and with a icon, you will be able 
 ## Customizing the task board
 
 
+### Creating the category by adding heading  
+
+After creating new page, you will now need to add heading to create categories. By typing '/heading 2' you will be able to create and name your catagory.
+
+<img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161909782-afec0a35-b651-4f6b-8c00-b93bd47bf328.png">
+
+Alternatively, you can use markdown syntax to create the headings.</br> If you use '##' followed by single 'space' press, you will be able to create a heading 2.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161910882-59bea58d-a861-446d-a231-3d26d180f94b.gif)
+
+
 
 ---
 

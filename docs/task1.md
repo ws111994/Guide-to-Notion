@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing Pages & Collaborating
+title: Utilizing Templates
 nav_order: 6
 ---
 

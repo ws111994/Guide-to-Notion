@@ -26,6 +26,20 @@ A student in need of good way of organizing notes and tasks.
 ### Software Requirements
 1. Users are are required to have Windos or Mac OS as their operating system
 2. Enough storage, ram and internet connection is required for installation and syncing.
+3. The guide will be created based on MacOS version of Notion.
+
+## Installation
+
+### via web version of the Notion
+
+The quickiest way to use Notion is to use [Notion](https://www.notion.so/) website.
+<br>
+
+### Downloading and installing the desktop app:
+
+Alternatively you can install it on your desktop.
+
+Visit this link to [Dowload Notion](https://www.notion.so/desktop).
 
 ### Procedures Overview
 

@@ -12,7 +12,6 @@
 ![image](https://user-images.githubusercontent.com/90341253/161979500-2bfeb83a-b4c1-4b29-b679-d45496c8a4ae.png)
 
 ## Installation
-
 <br>
 
 ### via web version of the Notion

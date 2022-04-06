@@ -107,6 +107,10 @@ Input the following words and press `enter` to create To-Do list.
 >/to-do 
 >```
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161949701-d0a617cd-69b8-4af1-83c5-3ada6905d608.gif)
+
+
+
 ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
 > **Note:** You can tyle `[]` to create To-Do list faster.
 
@@ -118,43 +122,27 @@ Input the following in the same field as To-Do list to add reminder.
 > @remind date time 
 >```
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161972710-95da345f-a52c-4404-b780-b79a8d8bab7f.gif)
+
+
 *You can replace the 'date' and 'time' to desired date and time*
 ---
 
-## Pages with children
+## Creating archive page to store the completed tasks
 
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
+1. Create new page inside your task board.
 
-```
-+-- ..
-|-- (Jekyll files)
-|
-|-- docs
-|   |-- ui-components
-|   |   |-- index.md  (parent page)
-|   |   |-- buttons.md
-|   |   |-- code.md
-|   |   |-- labels.md
-|   |   |-- tables.md
-|   |   +-- typography.md
-|   |
-|   |-- utilities
-|   |   |-- index.md      (parent page)
-|   |   |-- color.md
-|   |   |-- layout.md
-|   |   |-- responsive-modifiers.md
-|   |   +-- typography.md
-|   |
-|   |-- (other md files, pages with no children)
-|   +-- ..
-|
-|-- (Jekyll files)
-+-- ..
-```
+Click on the top of the page and input this follwowing command in your Notion and press `Enter` .
 
-On the parent pages, add this YAML front matter parameter:
+>```
+> /page
+>```
 
-- `has_children: true` (tells us that this is a parent page)
+Then name the new page "Archive" with icon of your choice.
+
+
+
+
 
 #### Example
 

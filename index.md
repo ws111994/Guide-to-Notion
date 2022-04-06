@@ -39,7 +39,7 @@ The quickiest way to use Notion is to use [Notion](https://www.notion.so/) websi
 
 Alternatively you can install it on your desktop.
 
-Visit this link to [Dowload Notion](https://www.notion.so/desktop).
+Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ### Procedures Overview
 

@@ -34,7 +34,7 @@ Here's how you can use them to organize your information.
 
 Here is what your page looks like when you first register for Notion. 
 
->![Starter Template](/lost-ark-studio\docs\images\task1\starterTemplate.png "Starter Template")
+>![Starter Template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/starterTemplate.png?raw=true "Starter Template")
 
 In this example we are going to select the `Task List` template from the side bar to create a to-do list.
 
@@ -42,13 +42,13 @@ In this example we are going to select the `Task List` template from the side ba
 1. Click on `✔ Task List` option on the left sidebar. 
 
 
->![Task List](/lost-ark-studio\docs\images\task1\taskList.png "Click on task list on the left sidebar")
+>![Task List](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/taskList.png?raw=true "Click on task list on the left sidebar")
 <br />
 <br />
 
 2. Click `+ New` on the Task List page and type a name for your to do list.
 
->![Add Task](/lost-ark-studio\docs\images\task1\createTask.png "Add a task with the + New button on the task list page")
+>![Add Task](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/createTask.png?raw=true "Add a task with the + New button on the task list page")
 
 And here you go! You just made your first Notion board with some tasks to do.
 
@@ -61,21 +61,21 @@ Sometimes we want to look for a more specific template to suit our organizing ha
 ---
 
 1. Click on `Templates` option on the left sidebar. 
->![templates](/lost-ark-studio/docs/images/task1/templates.png "add template page")
+>![templates](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/templates.png?raw=true "add template page")
 
 By doing so, you will see many types of template for different occasions. We see the "Class Notes" template shown here.
->![template selection](/lost-ark-studio/docs/images/task1/templateSelection.png "template selection page")
+>![template selection](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/templateSelection.png?raw=true "template selection page")
 
 
 2. Click on  `Use this template`  on top left of the page to choose the template.
->![choosing template](/lost-ark-studio/docs/images/task1/selectTemplate.png "selecting your template")
+>![choosing template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/selectTemplate.png?raw=true "selecting your template")
 
 Congratulations! You've just created your new Notion board with the selected template that looks like this: 
->![choosen template](/lost-ark-studio/docs/images/task1/chosenTemplate.png "successfully selected your built in template")
+>![choosen template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/chosenTemplate.png?raw=true "successfully selected your built in template")
 
 Alternatively, you can also click on `+ Add a page` to create an "Untitled page" and select a built-in template.
 
->![add page](/lost-ark-studio/docs/images/task1/addPage.png "using add page to chose a template")
+>![add page](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/addPage.png?raw=true "using add page to chose a template")
 
 
 ---
@@ -88,11 +88,11 @@ In addition to the in-app templates, you can also duplicate a public page made b
 
 2. Click on a template that you would like to import. Here we will select "Branch's engineering roadmap" template.
 
->![Branch's engineering roadmap](/lost-ark-studio/docs/images/task1/publicTemplate.png "choosing a public template")
+>![Branch's engineering roadmap](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/publicTemplate.png?raw=true "choosing a public template")
 
 3. Choose `duplicate template` to copy the template to your own Notion board.
 
->![duplicate template](/lost-ark-studio/docs/images/task1/duplicateTemplate.png "duplicate template to own Notion board")
+>![duplicate template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/duplicateTemplate.png?raw=true "duplicate template to own Notion board")
 
 **Note**: it may take a few moments for the template to load onto your Notion board.
 
@@ -109,11 +109,11 @@ Don't like the starter templates? Changed your mind about adding a template to y
 
 2. Click on the `•••` that appears over the template title.
 
->![selecting template to delete](/lost-ark-studio/docs/images/task1/hover.png "selecting template to delete")
+>![selecting template to delete](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/hover.png?raw=true "selecting template to delete")
 
 3. Click `Delete` to remove the template from your Notion board.
 
->![deleting the template](/lost-ark-studio/docs/images/task1/selectDelete.png "deleting template")
+>![deleting the template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/selectDelete.png?raw=true "deleting template")
 
 Congratulations! You deleted your Notion board. 
 

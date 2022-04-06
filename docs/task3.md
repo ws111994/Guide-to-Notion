@@ -33,7 +33,7 @@ First, here's a quick tour of the Share menu, which can be clicked at the top ri
 <br />
 
 In order to access the share functionality, the `Share` button can be clicked at the top right of your page. On mobile, an `•••` button can be seen at the same spot.
->![something](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "something")
+>![share](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "share")
 
 This is an example for different parties that may have access to this page. 
 >![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "shareExample")
@@ -43,24 +43,55 @@ This is an example for different parties that may have access to this page.
 - `Invite` button will add people both inside or outside you workspace to a page by their email address.
 
 
-<br /><br />
-## Share with members
+
+## Share with individual
 
 You can share the current Notion page with other people by adding their email address in the share menu. Target group could be individual person, a group specified in Notion contact, or within certain workspace.
 
-After clicking the `Invite` button on the top right, this submenu will pop up. Enter the email address to add them to the list of shared contacts. the dropdown menu to the left of `Invite` button provides different access level to the shared page.
+After clicking the `Invite` button on the top right, this submenu will pop up. Enter the email address to add them to the shared list.
 >![addPeople](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/addPeople.png?raw=true "addPeople")
-> **Note:** this is a note
+
+ the dropdown menu to the left of `Invite` button provides different access level to the shared page.
+
+>![dropDown](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/dropDown.png?raw=true "dropDown")
+
+When you are ready to share the page, click the `Invite` button will send an email to target email address with a share link to access the current page. Or you can click the `Copy link` on the bottom right and send the url manually.
+
+
 
 ---
 
-## sub heading 3
+## Share with a group
 
-something
+To make it easier to share with commonly-used groups (i.e. your study group or work group), you can create different groups in Notion and add different members to desired groups. 
 
-**Note**: this is another note
+**Note**: only workspace admins can create or edit groups.
 
-something
+In order to create a group in Notion, please follow the steps below:
+
+**1.** Go to `Settings & Members` at the top of you left-hand sidebar.
+
+
+
+**2.** Select the `Members` tab in the sidebar.
+
+
+
+**3.** Select the `Groups` header.
+
+
+
+**4.** Click `Create a group`. Name and icon of the group is customizable.
+
+
+**5.** Under the new group, click `Add members` to add as many members as you want.
+
+
+**6.** You can also `Remove` any group member.
+
+>![shareGroup](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareGroup.png?raw=true "shareGroup")
+<br />
+<br />
 
 ---
 

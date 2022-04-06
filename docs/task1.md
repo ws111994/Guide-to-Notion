@@ -93,7 +93,7 @@ In addition to the in-app templates, you can also duplicate a public page made b
 
 >![duplicate template](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task1/duplicateTemplate.png?raw=true "duplicate template to own Notion board")
 
-**Note**: it may take a few moments for the template to load onto your Notion board.
+:ledger: It may take a few moments for the template to load onto your Notion board.
 
 Congratulations! You just loaded a community-made template onto your own Notion board!
 

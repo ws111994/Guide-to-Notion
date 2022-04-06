@@ -29,20 +29,21 @@ Notion is built to be super collaborative, so there's a number of ways to share 
 
 First, here's a quick tour of the Share menu, which can be clicked at the top right of your page. On mobile, click the share icon next to the ••• at the top right for the same options.
 
-<br />
-<br />
+
 
 In order to access the share functionality, the `Share` button can be clicked at the top right of your page. On mobile, an `•••` button can be seen at the same spot.
 >![share](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "share")
 
 This is an example for different parties that may have access to this page. 
 >![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "shareExample")
+
+A few things to note here:
 - `Share to web` is turned off
 - The dropdown menus on the right let you set their level of access.
 - `Copy link` copies the page's unique URL to your clipboard so you can share it with whoever you want. 
 - `Invite` button will add people both inside or outside you workspace to a page by their email address.
 
-
+---
 
 ## Share with Individual
 
@@ -65,31 +66,31 @@ When you are ready to share the page, click the `Invite` button will send an ema
 
 To make it easier to share with commonly-used groups (i.e. your study group or work group), you can create different groups in Notion and add different members to desired groups. 
 
-**Note**: only workspace admins can create or edit groups.
+> :warning: only workspace admins can create or edit groups.
 
-**In order to create a group in Notion, please follow the steps below:**
+> :note: In order to create a group in Notion, please follow the steps below.
 
-**1.** Go to `Settings & Members` at the top of you left-hand sidebar.
+1. Go to `Settings & Members` at the top of you left-hand sidebar.
 
 >![settings](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/settings.png?raw=true "settings")
 <br />
 <br />
 
-**2.** Select the `Members` tab in the sidebar.
+2. Select the `Members` tab in the sidebar.
 
 
 
-**3.** Select the `Groups` header.
+3. Select the `Groups` header.
 
 
 
-**4.** Click `Create a group`. Name and icon of the group is customizable.
+4. Click `Create a group`. Name and icon of the group is customizable.
 
 
-**5.** Under the new group, click `Add members` to add as many members as you want.
+5. Under the new group, click `Add members` to add as many members as you want.
 
 
-**6.** You can also `Remove` any group member.
+6. You can also `Remove` any group member.
 
 >![shareGroup](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareGroup.png?raw=true "shareGroup")
 <br />
@@ -107,31 +108,31 @@ To share a page with a specific group, click `Share` on the top right of that pa
 
 What if the person you want to share a page with does not use Notion? Worry not, you could make a Notion page viewable as a site on the web. Everyone with the link is welcome!
 
-**Quick steps for making pages public on the web:**
 
-**1.** Click on `Share` at the top right of the page.
+1. Click on `Share` at the top right of the page.
 
-**2.** `Share to web` is toggled off by default.
-
-
-**3.** By turning on the `Share to web` toggle, anyone with the link can *view* the page.
-- `Allow editing` means anyone with a Notion account can make edits on the page given the page link.
-- `Allow comments` means anyone with a Notion account can leave comments on the page given the page link.
+2. `Share to web` is toggled off by default.
 
 
-**4.** `Allow duplicate as template` let other Notion users to duplicate your page to their own workspace. 
-
-_**Note: This is on by default**_.
-
-
-**5.** `Search engine indexing` makes your page appear in search results on Google and other search engines.
-
-_**Note: This is off by default**_.  _***Paid plans only.**_
+3. By turning on the `Share to web` toggle, anyone with the link can view the page.
+> - `Allow editing` means anyone with a Notion account can make edits on the page given the page link.
+> - `Allow comments` means anyone with a Notion account can leave comments on the page given the page link.
 
 
-**6.** `Copy link` on the bottom right to copy the page's unique link to share.
+4. `Allow duplicate as template` let other Notion users to duplicate your page to their own workspace. 
 
-_**Note: Only people with this link will be able to see it**_.
+> :ledger: This is on by default
+
+
+5. `Search engine indexing` makes your page appear in search results on Google and other search engines.
+
+> :ledger: This is off by default. <br>
+> :warning: Paid plans only.
+
+
+6. `Copy link` on the bottom right to copy the page's unique link to share.
+
+> :ledger: Only people with this link will be able to see it.
 
 >![shareWeb](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareWeb.png?raw=true "shareWeb")
 
@@ -139,22 +140,20 @@ _**Note: Only people with this link will be able to see it**_.
 
 ## Security Settings for Sharing
 
-_*Enterprise Plan subscription only._
+> :warning: Enterprise Plan subscription only.
 
 For enterprise usage, sometimes certain pages should not be shared by colleagues. As an admin in the workspace, you are able to prevent certain content being shared through `Security` settings page. 
 
-**1.** Go to `Settings & Members` at the top of left sidebar.
+1. Go to `Settings & Members` at the top of left sidebar.
 
-**2.** Click `Security & identity` section.
+2. Click `Security & identity` section.
 
-**3.** `Security` tab has various toggles for different senarios.
+3. `Security` tab has various toggles for different senarios.
 
 >![shareSecurity](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareSecurity.png?raw=true "shareSecurity")
 
 Voila! Now you have mastered different ways of sharing your carefully crafted Notion pages! Use Notion's flexibility to collaborate with others and make wonder!
 
-<br />
-<br />
 _Have some problems following the steps? Head to our [Troubleshooting page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
 
 _Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

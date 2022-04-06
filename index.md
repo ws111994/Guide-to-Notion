@@ -68,17 +68,17 @@ Intel Core™ i3 / AMD A10 processor or better<br>
 
 ### Software Versions
 
-This guide uses Notion version 2.15 desktop app on a Mac OS system. 
+This guide uses Notion version 2.15 desktop app on a Mac OS system. <br>
 If you do are on windows machine, order of menus might slightly differ but general procedure will be identical. 
 
 ---
 
 ### Installation
 
- **Via web version of the Notion:**
+ **Via web version of the Notion:**<br>
 The quickiest way to use Notion is to use the [Notion](https://www.notion.so/) website.
 
-**Downloading and installing the desktop app:**
+**Downloading and installing the desktop app:**<br>
 Alternatively you can install it on your desktop.
 This guide will be based on desktop app of Notion.
 Visit this link to [Download Notion](https://www.notion.so/desktop).
@@ -95,7 +95,10 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 
 ### Typographical Conventions
-> A typography like   `this`   indicates an interactive element on the webpage that requires the user to click.
+> A typography like `this` indicates an interactive element on the webpage that requires the user to click.<br>
+> A typography like **[this]** indicates a keystroke.<br>
+> A typography like ```this``` indicates a typing input. <br>
+
 
 ### Notes and Restrictions
 

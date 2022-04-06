@@ -8,7 +8,7 @@ nav_order: 5
 
 ![image](https://user-images.githubusercontent.com/90341253/161876472-1e94ec7f-2203-41cb-8292-ad6aabc4d706.png)
 
-In Notion, creating task board is simple. With the task board, it is easy to plan, track, and do all your work in one place. By alongside all your notes, you will be able to easily access your task board to keep you on tack.
+Creating a task board in notion is simple. With the task board, it is easy to plan, track, and do all your work in one place. You will be able to easily access your task board to keep you on tack while organizing your notes.
 
 ---
 
@@ -20,21 +20,19 @@ In Notion, creating task board is simple. With the task board, it is easy to pla
 ---
 ## Commands and Keys
 
-`Return` is the same as `Enter` on windows machines. 
+:ledger: **[Return]** is the same as **[Enter]** on windows machines. 
 
 ---
 
 ## Creating New Page
 
-Notion is user friednly app that will not let user get lost when you try to make a new page. In order to make a task board on Notion, you will need to create a new page.
+In order to create your task board, you will need to create a new page. Creating a new page in Notion is easy!
 
-This is the image of landing page of the Nontion when you open it. 
 1. Create a new page by clicking `+ New page` at the bottom left of the app. 
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 
-![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
-> **Note:** Your Notion can appear different depending on what you already have on your local machine, but the location of the `+ New page` will be at the same place.
+:ledger: Your Notion can appear different depending on what you already have on your local machine, but the location of the `+ New page` will be at the same place.
 
 
 2. Name your new page with proper name.
@@ -54,12 +52,17 @@ After creating the new page with proper title and with a icon, you will be able 
 ### Creating the Category
 
 After creating new page, you will now need to add heading to create categories. 
-1. Type `/heading 2` to create category, then name the catagory.
+1. Type the following to create category, then name the catagory.
+>```
+> /heading 2
+>```
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 11 28 58 PM" src="https://user-images.githubusercontent.com/90341253/161932980-8e61a351-7ae0-41c2-88de-ed15954d6823.png">
 
+<br>
+
 Alternatively, you can use markdown syntax to create the headings.
-If you use `##` followed by single `space` press, you will be able to create a heading 2.
+You can use ```##``` followed by single **[space]** press, you will be able to create a heading 2 like so:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161974307-44479716-a2e4-4dbd-b1f0-8e37203da19c.gif)
 
@@ -73,16 +76,16 @@ In order to achieve this, you will need to click and grab the second category. T
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161934666-d0a2f6fc-db30-4444-936e-5ea6630ac234.gif)
 
-*Blue lines are there to guide you where it will land.*
+:ledger: Blue lines are there to guide you where it will land.
 
 Repeat this process to rearrange the categories in order.
 
 
-2. Locate the `•••` and select `Full width`.
+2. Hover over `•••` and click on `Full width`.
 
 <img width="1636" alt="Screen Shot 2022-04-06 at 2 19 13 AM" src="https://user-images.githubusercontent.com/90341253/161942013-71aceecc-a274-4873-b642-053aaca40a2e.png">
 
-*You can locate the `•••` button on the right top corner of the Notion.*
+:ledger: You can locate the `•••` button on the top right corner of the page.
 
 <img width="1636" alt="Screen Shot 2022-04-06 at 2 23 00 AM" src="https://user-images.githubusercontent.com/90341253/161942725-4017f73c-a879-4518-adfb-ee2d211b348b.png">
 
@@ -93,7 +96,7 @@ Repeat this process to rearrange the categories in order.
 >```
 > ---
 >```
-After selecting the category, press `Return`, then use 3 hyphen `-` to create a divider under.
+After selecting the category, press **[Return]**, then use 3 hyphens ```-``` to create a divider under.
 
 <br>
 
@@ -107,7 +110,7 @@ After creating appropriate columns of categories, you will add list of things to
 
 1. Add the To-Do list
 
-Input the following words and press `Return` to create To-Do list.
+Input the following words and press **[Return]** to create To-Do list.
 
 >```
 >/to-do 
@@ -117,8 +120,7 @@ Input the following words and press `Return` to create To-Do list.
 
 
 
-![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
-> **Note:** You can tyle `[]` to create To-Do list faster.
+> :ledger: You can type ```[]``` to create To-Do list faster.
 
 2. Add reminders to the To-Do list
 
@@ -138,7 +140,7 @@ You can replace the 'date' and 'time' to desired date and time
 
 1. Create new page inside your task board.
 
-Click on the top of the page and input this follwowing command in your Notion and press `Return` .
+Click on the top of the page and input this follwowing command in your Notion and press **[Return]** .
 
 >```
 > /page
@@ -152,10 +154,9 @@ This will create Archive page in your task board and you can drag and drop your 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161976064-308829ce-28e8-401c-929f-73d83f8ba515.gif)
 
-*Congratulations! You can now create your own task board in Notion.*
+Congratulations! You can now create your own task board in Notion.
 
-<br />
-<br />
+
 _Have some problems following the steps? Head to our [Troubleshooting page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
 
 _Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

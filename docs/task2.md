@@ -4,24 +4,19 @@ title: Creating task board
 nav_order: 5
 ---
 
-# Navigation Structure
+# Creating Task Board in Notion
 
-{: .no_toc }
+![image](https://user-images.githubusercontent.com/90341253/161876472-1e94ec7f-2203-41cb-8292-ad6aabc4d706.png)
 
-<details open markdown="block">
-  <summary>
-    Table of contents
   </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
+It is simple to plan, track, and do all your work in one place with notion.
 ---
 
-## Main navigation
+## Visualize everything you need to do
 
-The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
+Keep everyone aligned with a shared project roadmap. Get tasks out of your head and into a database that fits your team's process.
+
 
 By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Utilizing Templates
-nav_order: 6
+nav_order: 4
 ---
 
 # Using Notion with a Template

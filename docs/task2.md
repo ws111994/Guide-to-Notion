@@ -46,6 +46,7 @@ After creating the new page with proper title and with a icon, you will be able 
 
 <img width="1521" alt="Screen Shot 2022-04-05 at 11 08 13 PM" src="https://user-images.githubusercontent.com/90341253/161906749-39b48b23-6734-4bbd-9f7a-f776185cbe01.png">
 
+---
 
 ## Customizing the Task Board
 

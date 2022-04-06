@@ -12,7 +12,7 @@ In Notion, creating task board is simple. With the task board, it is easy to pla
 
 ---
 
-### Table of contents
+### Table of Contents
 {: .no_toc .text-delta }
 * TOC
 {:toc}
@@ -47,10 +47,10 @@ After creating the new page with proper title and with a icon, you will be able 
 <img width="1521" alt="Screen Shot 2022-04-05 at 11 08 13 PM" src="https://user-images.githubusercontent.com/90341253/161906749-39b48b23-6734-4bbd-9f7a-f776185cbe01.png">
 
 
-## Customizing the task board
+## Customizing the Task Board
 
 
-### Creating the category
+### Creating the Category
 
 After creating new page, you will now need to add heading to create categories. 
 1. Type `/heading 2` to create category, then name the catagory.
@@ -62,7 +62,7 @@ If you use `##` followed by single `space` press, you will be able to create a h
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90341253/161974307-44479716-a2e4-4dbd-b1f0-8e37203da19c.gif)
 
-### Arranging the categories 
+### Arranging the Categories 
 
 To have a better visual representation, the categories will need to be arranged horizontally on your Notion. 
 In order to achieve this, you will need to click and grab the second category. Then you drag and drop to the right of the first category.
@@ -100,7 +100,7 @@ After selecting the category, press `Return`, then use 3 hyphen `-` to create a 
 
 ---
 
-## Creating To-Do lists
+## Creating To-Do Lists
 
 After creating appropriate columns of categories, you will add list of things to do under those categories.
 
@@ -133,7 +133,7 @@ You can replace the 'date' and 'time' to desired date and time
 
 ---
 
-## Creating archive page to store the completed tasks
+## Creating Archive Page to Store the Completed Tasks
 
 1. Create new page inside your task board.
 

@@ -20,7 +20,7 @@ In Notion, creating task board is simple. With the task board, it is easy to pla
 ---
 ## Commands and Keys
 
-`Enter` is the same as `Return` on Mac OS machines. 
+`Return` is the same as `Enter` on windows machines. 
 
 ---
 
@@ -92,7 +92,7 @@ Repeat this process to rearrange the categories in order.
 >```
 > ---
 >```
-After selecting the category, press `enter`, then use 3 hyphen `-` to create a divider under.
+After selecting the category, press `Return`, then use 3 hyphen `-` to create a divider under.
 
 <br>
 
@@ -106,7 +106,7 @@ After creating appropriate columns of categories, you will add list of things to
 
 1. Add the To-Do list
 
-Input the following words and press `enter` to create To-Do list.
+Input the following words and press `Return` to create To-Do list.
 
 >```
 >/to-do 
@@ -137,7 +137,7 @@ You can replace the 'date' and 'time' to desired date and time
 
 1. Create new page inside your task board.
 
-Click on the top of the page and input this follwowing command in your Notion and press `Enter` .
+Click on the top of the page and input this follwowing command in your Notion and press `Return` .
 
 >```
 > /page

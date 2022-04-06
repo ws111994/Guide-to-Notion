@@ -127,9 +127,10 @@ Input the following in the same field as To-Do list to add reminder.
 > @remind date time 
 >```
 
+You can replace the 'date' and 'time' to desired date and time
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90341253/161972710-95da345f-a52c-4404-b780-b79a8d8bab7f.gif)
 
-You can replace the 'date' and 'time' to desired date and time
 ---
 
 ## Creating archive page to store the completed tasks

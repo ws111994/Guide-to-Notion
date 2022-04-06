@@ -13,9 +13,14 @@
 
 ## Installation
 
+<br>
+
 ### via web version of the Notion
 
 The quickiest way to use Notion is to use website [remote theme](https://www.notion.so/) 
+
+<br>
+<br>
 
 ### Downloading and installing the desktop app:
 
@@ -23,23 +28,6 @@ Alternatively you can install it on your desktop.
 
 Visit this link to [Dowload Notion](https://www.notion.so/desktop).
 
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: just-the-docs
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install just-the-docs
-
-Alternatively, you can run it inside Docker while developing your site
-
-    $ docker-compose up
 
 ## Usage
 

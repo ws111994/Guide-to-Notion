@@ -28,11 +28,11 @@ Notion is built to be super collaborative, so there's a number of ways to share 
 
 First, here's a quick tour of the Share menu, which can be clicked at the top right of your page. On mobile, click the share icon next to the ••• at the top right for the same options.
 
----
+
 
 In order to access the share functionality, the `Share` button can be clicked at the top right of your page. On mobile, an `•••` button can be seen at the same spot.
 >![something](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/share.png?raw=true "something")
----
+
 This is an example for different parties that may have access to this page. 
 >![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "shareExample")
 - Share to web is turned off

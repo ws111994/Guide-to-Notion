@@ -27,7 +27,7 @@ This is the image of landing page of the Nontion when you open it. You can locat
 
 <img width="1517" alt="Screen Shot 2022-04-05 at 10 52 40 PM" src="https://user-images.githubusercontent.com/90341253/161904913-182bf5c4-7bbe-41a1-956c-291d14902bce.png">
 
-This is an image of your starting page on Notoin. (It might look different depending on what you already have on your local machine, but the location of the '+ New page' will be at the same place.)
+This is an image of your starting page on Notoin.<br> **It might look different depending on what you already have on your local machine, but the location of the '+ New page' will be at the same place.**
 
 Now lets give this new page a name. If you want to distingush this task board from other notes, you can assign an icon to it. 
 
@@ -38,26 +38,9 @@ After creating the new page with proper title and with a icon, you will be able 
 <img width="1521" alt="Screen Shot 2022-04-05 at 11 08 13 PM" src="https://user-images.githubusercontent.com/90341253/161906749-39b48b23-6734-4bbd-9f7a-f776185cbe01.png">
 
 
-## Example
+## Customizing the task board
 
-{: .no_toc }
 
-```yaml
----
-layout: default
-title: Customization
-nav_order: 4
----
-
-```
-
-The parameter values determine the order of the top-level pages, and of child pages with the same parent. You can reuse the same parameter values (e.g., integers starting from 1) for the child pages of different parents.
-
-The parameter values can be numbers (integers, floats) and/or strings. When you omit `nav_order` parameters, they default to the titles of the pages, which are ordered alphabetically. Pages with numerical `nav_order` parameters always come before those with strings or default `nav_order` parameters. If you want to make the page order independent of the page titles, you can set explicit `nav_order` parameters on all pages.
-
-By default, all Capital letters come before all lowercase letters; you can add `nav_sort: case_insensitive` in the configuration file to ignore the case. Enclosing strings in quotation marks is optional.
-
-> _Note for users of previous versions:_ `nav_sort: case_insensitive` previously affected the ordering of numerical `nav_order` parameters: e.g., `10` came before `2`. Also, all pages with explicit `nav_order` parameters previously came before all pages with default parameters. Both were potentially confusing, and they have now been eliminated.
 
 ---
 

@@ -23,7 +23,7 @@ Let's hop on board to learn how to plan, track, and do all your work in one plac
 
 ---
 
-### Who is this guide for
+### Intended Users
 
 This documentation is targeted for users with basic computer knowledge.
 
@@ -76,16 +76,11 @@ If you do are on windows machine, order of menus might slightly differ but gener
 ### Installation
 
  **Via web version of the Notion:**
-
 The quickiest way to use Notion is to use the [Notion](https://www.notion.so/) website.
 
-<br>
-
 **Downloading and installing the desktop app:**
-
 Alternatively you can install it on your desktop.
 This guide will be based on desktop app of Notion.
-
 Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ---
@@ -104,7 +99,7 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ### Notes and Restrictions
 
-:ledger:  Indicates additional notes the user needs to pay attention to.
+:ledger:  Indicates additional notes the user needs to pay attention to.<br>
 :warning: Indicates certain restrictions to the procedure.
 
 

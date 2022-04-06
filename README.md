@@ -11,13 +11,51 @@
 
 ![image](https://user-images.githubusercontent.com/90341253/161979500-2bfeb83a-b4c1-4b29-b679-d45496c8a4ae.png)
 
+### Overview of Notion Instruction Guide
+
+Hello reader, our guide on Notion is meant to provide you with a basic and general understanding of how to use Notion as well as how to use basic functions to use Notion to the fullest.
+
+The things we want to teach you in this site include how to:
+- Installing Notion or using it on web version,
+- using Notion with a template,
+- create, modify, your own task board, and
+- sharing pages and collaborating with other users.
+
+### Our Collaboration process
+
+At the early stage of this guide, we would analyze what the user will use the more in Notion as well as the essential needs for basic day to day Notion users.
+
+Due to COVID-19, we did not have the chance to communicate in person and we opted to use Discord and Email as our main form of communication outside of classes.
+
+We deliberately used Discord to communicate effectively given our circumstances. Our team agree that _communication would be the most important_ part in finishing and creating a user centered instruction guide.
+
+### How our team created the guide
+In the process of composing this guide, we mainly used Github as the editor, and with sufficient amount of screenshot of Notion, we have come together with easy to follow guide.
+
+#### Using Markdown for the first time
+
+It was our team's first time using the Markdown. 
+
+Our team was unfamiliar with the concept of writing insturction with markdown before creating this guide. Our team invested fair bit of time to learn how to format and use certain syntax to create a readable guide with Markdown.
+
+Our team learned and implemented the use of headings, font weights, lists, indentation, breaks, code blocks, tables, and integrating links, images and gifs in our guide.
+
+#### Using a Theme
+
+Our team opted to use one of the free themes provided from Jekyll to allow us to change the style and look of the guide. Our team agreed to use the current theme due to how this theme is simple and easy to read.
+
+To customize Jekyll theme to fit out own need, we forked the Just the Docs theme and configured the yaml file to allow us to make all necessary code changes.
+
+### Conclusion
+need to write conclusion.
+
+This document was built on: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
+
 ## Installation
 
 ### via web version of the Notion
 
-The quickiest way to use Notion is to use [Notion](https://www.notion.so/) website
-
-<br>
+The quickiest way to use Notion is to use [Notion](https://www.notion.so/) website.
 <br>
 
 ### Downloading and installing the desktop app:
@@ -33,31 +71,8 @@ Visit this link to [Dowload Notion](https://www.notion.so/desktop).
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/just-the-docs/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+This project is intended to provide simple instruction to first time Notion users.
 
-### Submitting code changes:
-
-- Open a [Pull Request](https://github.com/just-the-docs/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
-
-### Design and development principles of this theme:
-
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-A modern [devcontainer configuration](https://code.visualstudio.com/docs/remote/containers) for VSCode is included.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
 ## License
 

@@ -18,6 +18,11 @@ In Notion, creating task board is simple. With the task board, it is easy to pla
 {:toc}
 
 ---
+## Commands and Keys
+
+`Enter` is the same as `Return` on Mac OS machines. 
+
+---
 
 ## Creating New Page
 
@@ -96,14 +101,24 @@ After creating appropriate columns of categories, you will add list of things to
 
 1. Add the To-Do list
 
-Input the following words to create To-Do list.
+Input the following words and press `enter` to create To-Do list.
 
 >```
->/to-do `enter`
+>/to-do 
 >```
 
+![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+> **Note:** You can tyle `[]` to create To-Do list faster.
 
+2. Add reminders to the To-Do list
 
+Input the following in the same field as To-Do list to add reminder.
+
+>```
+> @remind date time 
+>```
+
+*You can replace the 'date' and 'time' to desired date and time*
 ---
 
 ## Pages with children

@@ -111,35 +111,8 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ### Notes and Restrictions
 
-<<<<<<< HEAD
 :ledger:  Indicates additional notes the user needs to pay attention to.
-=======
-
->>>>>>> e836838fcd2d8ec2348ca86e4245ff9c28ab23e2
 
 :warning: Indicates certain restrictions to the procedure.
 
 
-## About the project
-
-Notion User Guide is &copy; 2022-{{ "now" | date: "%Y" }} by Lost Ark Studio.
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
-### About our team.
-
-
-
-#### Thank you for checking out Lost Ark Studio!
-
-<ul class="list-style-none">
-
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.

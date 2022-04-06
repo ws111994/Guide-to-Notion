@@ -12,7 +12,10 @@ It is simple to plan, track, and do all your work in one place with notion. This
 
 ---
 
-## TABLE OF CONTENTS
+### Table of contents
+{: .no_toc .text-delta }
+* TOC
+{:toc}
 
 ---
 

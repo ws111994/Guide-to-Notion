@@ -8,23 +8,19 @@ nav_order: 5
 
 ![image](https://user-images.githubusercontent.com/90341253/161876472-1e94ec7f-2203-41cb-8292-ad6aabc4d706.png)
 
-  </summary>
+It is simple to plan, track, and do all your work in one place with notion. This guide will lead you step by step.
 
-It is simple to plan, track, and do all your work in one place with notion.
 ---
 
-## Visualize everything you need to do
-
-Keep everyone aligned with a shared project roadmap. Get tasks out of your head and into a database that fits your team's process.
-
-
-By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
+## TABLE OF CONTENTS
 
 ---
 
 ## Ordering pages
 
-To specify a page order, you can use the `nav_order` parameter in your pages' YAML front matter.
+Users can manage their tasks however they want witih notion.
+There are 2 ways to construct a task board in notion and this guide will show you both ways - one that's more lightweight, and one with more features and functionality.
+
 
 #### Example
 

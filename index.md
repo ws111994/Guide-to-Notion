@@ -56,6 +56,8 @@ The quickiest way to use Notion is to use [Notion](https://www.notion.so/) websi
 
 Alternatively you can install it on your desktop.
 
+This guide will be based on desktop app of Notion.
+
 Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 ### Procedures Overview
@@ -66,12 +68,16 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
   https://www.notion.so/desktop
   ```
   ```yaml
-  You could also use the web version but desktop version works better
+  You could also use the web version but this guid
   ```
 
-2. Making Personal Task Boards in notion
+2. Using Notion with a Template
 
-3. Sharing Pages and Collaborating 
+
+3. Making Personal Task Boards in notion
+
+
+4. Sharing Pages and Collaborating
 
 ---
 

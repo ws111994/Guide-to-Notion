@@ -110,6 +110,10 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 > A typography like   `this`   indicates an interactive element on the webpage that requires the user to click.
 
 ### Notes and Restrictions
-!!! Info Indicates additional notes the user needs to pay attention to.
-!!! warning Indicates certain restrictions.
+
+!!! Info
+Indicates additional notes the user needs to pay attention to.
+
+!!! warning
+Indicates certain restrictions.
 

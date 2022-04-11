@@ -21,15 +21,12 @@ The things we want to teach you in this site include how to:
 - create, modify, your own task board, and
 - sharing pages and collaborating with other users.
 
----
-
 ## Our Collaboration process
 
 Before writing our guide, we discussed some of Notion's major features and frequently used functions that users may find helpful to be guided through with step by step instructions.
 
 Due to the fact that some of us were sick during the collboration process, we did not have the chance to communicate in person and we opted to use Discord and Email as our main form of communication. We agree that effective communication during the process is crucial to completing this user centered instruction guide.
 
----
 
 ## How our team created the guide
 In the process of composing this guide, we used Github as the text editor. During this process, we learned about how to provide clear instructions combined with helpful screenshots to guide the user through a step by step process.

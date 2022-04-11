@@ -158,6 +158,8 @@ Click on the top of the page and input the following command in your Notion and 
 Congratulations! You can now create your own task board in Notion.
 
 
+---
+
 _Have some problems following the steps? Head to our [FAQ page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
 
 _Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

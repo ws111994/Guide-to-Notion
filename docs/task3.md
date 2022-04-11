@@ -37,7 +37,7 @@ In order to access the share functionality, the `Share` button can be clicked at
 This is an example for different parties that may have access to this page. 
 >![shareExample](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareExample.png?raw=true "sharing page example")
 
-A few things to note here:
+> :ledger: A few things to note here:
 > - `Share to web` is turned off
 > - The dropdown menus on the right let you set their level of access.
 > - `Copy link` copies the page's unique URL to your clipboard so you can share it with whoever you want. 
@@ -68,7 +68,7 @@ To make it easier to share with commonly-used groups (i.e. your study group or w
 
 > :warning: only workspace admins can create or edit groups.
 
-> :note: In order to create a group in Notion, please follow the steps below.
+> :ledger: In order to create a group in Notion, please follow the steps below.
 
 **1.** Go to `Settings & Members` at the top of you left-hand sidebar.
 
@@ -153,6 +153,8 @@ For enterprise usage, sometimes certain pages should not be shared by colleagues
 >![shareSecurity](https://github.com/ws111994/lost-ark-studio/blob/gh-pages/docs/images/task3/shareSecurity.png?raw=true "shareSecurity")
 
 Voila! Now you have mastered different ways of sharing your carefully crafted Notion pages! Use Notion's flexibility to collaborate with others and make wonder!
+
+---
 
 _Have some problems following the steps? Head to our [FAQ page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
 

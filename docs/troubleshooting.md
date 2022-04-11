@@ -62,4 +62,6 @@ nav_order: 5
 - This will copy the anchor link to that block.
 - You could use that anchor link else where to get back to the specific section quickly.
 
+---
+
 _Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

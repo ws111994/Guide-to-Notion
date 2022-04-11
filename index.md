@@ -40,15 +40,15 @@ There are many other productivity apps out in the market, but many of them are h
 
 ### Prerequisite Knowledge
 
->* Users will be required to know how to install an app on their device.
->* Users are expected to know what operating system they are using. 
->* Users are expected to know how to use email or social media accounts to sign up and register for a Notion account.
+* Users will be required to know how to install an app on their device.
+* Users are expected to know what operating system they are using. 
+* Users are expected to know how to use email or social media accounts to sign up and register for a Notion account.
 
 ---
 
 ### Software Requirements
->* Users are are required to have Windows or Mac OS as their operating system
->* The guide will be created based on MacOS version of Notion.
+* Users are are required to have Windows or Mac OS as their operating system
+* The guide will be created based on MacOS version of Notion.
 
 ---
 
@@ -72,6 +72,7 @@ There are many other productivity apps out in the market, but many of them are h
 
 This guide uses Notion version 2.15 desktop app on a Mac OS system. <br>
 If you do are using Windows, the order of menu item order for Notion might slightly differ but general procedures will be similar.
+
 ---
 
 ### Installation
@@ -101,6 +102,8 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 
 > :ledger:  Indicates additional notes the user needs to pay attention to.<br>
 > :warning: Indicates certain restrictions to the procedure.
+
+---
 
 
 _Have some problems following the steps? Head to our [FAQ page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._

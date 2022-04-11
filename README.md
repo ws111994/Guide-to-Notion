@@ -29,6 +29,7 @@ Due to the fact that some of us were sick during the collboration process, we di
 
 
 ## How our team created the guide
+
 In the process of composing this guide, we used Github as the text editor. During this process, we learned about how to provide clear instructions combined with helpful screenshots to guide the user through a step by step process.
 
 ###Using Markdown for the first time
@@ -62,19 +63,6 @@ Lost Ark Studio was extremely beneficial to team members that are involved and t
 Thank you for reading our Notion guide and we hope that you can utilize Notion better by following our instructions.
 
 ---
-
-This document was built on: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
-
-
-
-
-## Usage
-
-[View the documentation](https://just-the-docs.github.io/just-the-docs/) for usage information.
-
-## Contributing
-
-This project is intended to provide simple instruction to first time Notion users.
 
 
 ## License

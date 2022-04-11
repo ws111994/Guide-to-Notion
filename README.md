@@ -47,31 +47,20 @@ Our team opted to use one of the free themes provided from Jekyll to allow us to
 To customize Jekyll theme to fit out own need, we forked the Just the Docs theme and configured the yaml file to allow us to make all necessary code changes.
 
 ### Conclusion
-need to write conclusion.
+Completing this guide using markdown was not easy at first. 
+However, through helping each other as a team, we were able to complete our guide on time with good quality of work.
+
+Working as a team is always harder than working individually since you have to cooperate on many things.
+
+Because we were working on several projects together for this course, 
+we came to adapt to how other team members work and were able to easily come to an agreement with each other.
+
+Lost Ark Studio was extremely beneficial to team members that are involved and taught us better how to work as a team. 
+We are looking forward to working on a project together if we are ever given the chance to.
+
+Thank you for reading our Notion guide and we hope that you can utilize Notion better by following our instructions.
 
 This document was built on: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
-
-## Installation
-
-### via web version of the Notion
-
-The quickiest way to use Notion is to use [Notion](https://www.notion.so/) website.
-<br>
-
-### Downloading and installing the desktop app:
-
-Alternatively you can install it on your desktop.
-
-Visit this link to [Dowload Notion](https://www.notion.so/desktop).
-
-
-## Usage
-
-[View the documentation](https://just-the-docs.github.io/just-the-docs/) for usage information.
-
-## Contributing
-
-This project is intended to provide simple instruction to first time Notion users.
 
 
 ## License

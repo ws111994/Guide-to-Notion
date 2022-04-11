@@ -52,13 +52,12 @@ To customize Jekyll theme to fit out own need, we forked the Just the Docs theme
 
 ## Conclusion
 
-Completing this guide using markdown was not easy at first. However, through helping each other as a team, we were able to complete our guide on time with good quality of work.
+Completing this guide using markdown was not easy at first. However, through helping each other as a team, we were able to complete our guide on time with good quality of work.<br>
+
+Through writing this user guide, we all learned how to present our writing to tailor to a user-focused audience. It was more difficult than we imagined. Sometimes the descriptions of steps that makes sense to one person, may not make sense to another. Through user testing and proofreading each other's instructions, we were able to modify and produce our final user guide.<br>
 
 Working as a team is always harder than working individually since you have to cooperate on many things.
-
-Because we were working on several projects together for this course, we came to adapt to how other team members work and were able to easily come to an agreement with each other.
-
-Lost Ark Studio was extremely beneficial to team members that are involved and taught us better how to work as a team. We are looking forward to working on a project together if we are ever given the chance to.
+Because we were working on several projects together for this course, we came to adapt to how other team members work and were able to easily come to an agreement with each other. We look forward to working on more projects together in the future! <br>
 
 Thank you for reading our Notion guide and we hope that you can utilize Notion better by following our instructions.
 

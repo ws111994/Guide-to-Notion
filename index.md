@@ -40,31 +40,31 @@ There are many other productivity apps out in the market, but many of them are h
 
 ### Prerequisite Knowledge
 
-1. Users will be required to know how to install an app on their device.
-2. Users are expected to know what operating system they are using. 
-3. Users are expected to know how to use email or social media accounts to sign up and register for a Notion account.
+>* Users will be required to know how to install an app on their device.
+>* Users are expected to know what operating system they are using. 
+>* Users are expected to know how to use email or social media accounts to sign up and register for a Notion account.
 
 ---
 
 ### Software Requirements
-1. Users are are required to have Windows or Mac OS as their operating system
-2. The guide will be created based on MacOS version of Notion.
+>* Users are are required to have Windows or Mac OS as their operating system
+>* The guide will be created based on MacOS version of Notion.
 
 ---
 
 ### Hardware Requirements
 
 **Mac**
-macOS 10.13 High Sierra or later (64-bit only)<br>
-Intel Core™ i3 processor or better & Apple M1 processor supported with Rosetta 2<br>
-1 GB RAM (2 GB or more recommended)<br>
-8 GB free hard-drive space<br>
+> macOS 10.13 High Sierra or later (64-bit only)<br>
+> Intel Core™ i3 processor or better & Apple M1 processor supported with Rosetta 2<br>
+> 1 GB RAM (2 GB or more recommended)<br>
+> 8 GB free hard-drive space<br>
 
 **Windows**
-Windows Windows 10 x64 or later <br>
-Intel Core™ i3 / AMD A10 processor or better<br>
-1 GB RAM (2 GB or more recommended)<br>
-8 GB free hard-drive space<br>
+> Windows Windows 10 x64 or later <br>
+> Intel Core™ i3 / AMD A10 processor or better<br>
+> 1 GB RAM (2 GB or more recommended)<br>
+> 8 GB free hard-drive space<br>
 
 ---
 

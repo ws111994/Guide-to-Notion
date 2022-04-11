@@ -71,8 +71,7 @@ Intel Core™ i3 / AMD A10 processor or better<br>
 ### Software Versions
 
 This guide uses Notion version 2.15 desktop app on a Mac OS system. <br>
-If you do are on windows machine, order of menus might slightly differ but general procedure will be identical. 
-
+If you do are using Windows, the order of menu item order for Notion might slightly differ but general procedures will be similar.
 ---
 
 ### Installation
@@ -81,17 +80,9 @@ If you do are on windows machine, order of menus might slightly differ but gener
 The quickiest way to use Notion is to use the [Notion](https://www.notion.so/) website.
 
 **Downloading and installing the desktop app:**<br>
-Alternatively you can install it on your desktop.
+Alternatively you can install it on your desktop. <br>
 This guide will be based on desktop app of Notion.
 Visit this link to [Download Notion](https://www.notion.so/desktop).
-
----
-
-### Procedures Overview
-
-1. Using Notion with a Template
-2. Making Personal Task Boards in Notion
-3. Sharing Pages & Collaborating
 
 ---
 
@@ -104,10 +95,15 @@ Visit this link to [Download Notion](https://www.notion.so/desktop).
 >this
 >``` 
 
+---
 
 ### Notes and Restrictions
 
 > :ledger:  Indicates additional notes the user needs to pay attention to.<br>
 > :warning: Indicates certain restrictions to the procedure.
 
+
+_Have some problems following the steps? Head to our [FAQ page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
+
+_Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._
 

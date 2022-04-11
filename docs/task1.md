@@ -118,6 +118,6 @@ Congratulations! You deleted your Notion board.
 
 ---
 
-_Have some problems following the steps? Head to our [Troubleshooting page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
+_Have some problems following the steps? Head to our [FAQ page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
 
 _Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

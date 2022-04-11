@@ -50,7 +50,7 @@ nav_order: 5
 
 ### Can I @-mention my entire workspace, or a group of people?
 - Not at the moment, unfortunately. 
-- It will be supported in the neaer future, please stay tuned.
+- It will be supported in the near future, please stay tuned.
 
 ### Does Notion suuport custom domains?
 - You could customize the last part of the URL. For example, you could customize your URL to _www.notion.so/customizablepart_.
@@ -61,3 +61,5 @@ nav_order: 5
 - Click the `⋮⋮` icon next to any block in the page and choose `Copy link` in the menu.
 - This will copy the anchor link to that block.
 - You could use that anchor link else where to get back to the specific section quickly.
+
+_Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

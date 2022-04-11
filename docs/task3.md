@@ -154,6 +154,6 @@ For enterprise usage, sometimes certain pages should not be shared by colleagues
 
 Voila! Now you have mastered different ways of sharing your carefully crafted Notion pages! Use Notion's flexibility to collaborate with others and make wonder!
 
-_Have some problems following the steps? Head to our [Troubleshooting page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
+_Have some problems following the steps? Head to our [FAQ page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
 
 _Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

@@ -121,7 +121,7 @@ Input the following words and press **[Return]** to create a To-Do list.
 
 
 
-> :ledger: You can type **[[]** and **[]]** to create To-Do list faster.
+> :ledger: You can type **[ [ ]** and **[ ] ]** to create To-Do list faster.
 
 **2.** Adding Reminders to the To-Do list
 
@@ -158,6 +158,6 @@ Click on the top of the page and input the following command in your Notion and 
 Congratulations! You can now create your own task board in Notion.
 
 
-_Have some problems following the steps? Head to our [Troubleshooting page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
+_Have some problems following the steps? Head to our [FAQ page](https://ws111994.github.io/lost-ark-studio/docs/troubleshooting/)._
 
 _Encounter some unfamiliar terms? Head to our [Glossary page](https://ws111994.github.io/lost-ark-studio/docs/glossary/)._

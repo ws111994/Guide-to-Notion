@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guide to Notion
-description: A Jekyll theme for documentation
-baseurl: "/guidetonotion" # the subpath of your site, e.g. /blog
+description: Learn the baasics of Notion
+baseurl: "/guide-to-notion" # the subpath of your site, e.g. /blog
 url: "https://ws111994.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty

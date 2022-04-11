@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Guide to Notion
 description: A Jekyll theme for documentation
-baseurl: "/guide-to-notion" # the subpath of your site, e.g. /blog
+baseurl: "/guidetonotion" # the subpath of your site, e.g. /blog
 url: "https://ws111994.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty

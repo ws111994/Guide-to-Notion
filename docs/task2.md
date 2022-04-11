@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Making Personal Task Boards in Notion
-nav_order: 5
+nav_order: 3
 ---
 
 # Creating Task Board in Notion
+{: .no_toc }
 
 ![image](https://user-images.githubusercontent.com/90341253/161876472-1e94ec7f-2203-41cb-8292-ad6aabc4d706.png)
 

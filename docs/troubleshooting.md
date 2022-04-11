@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Troubleshooting
-nav_order: 7
+title: FAQ
+nav_order: 5
 ---
 
 # FAQ

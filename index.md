@@ -6,7 +6,9 @@ has_children: false
 permalink: /
 ---
 
+{: .fs-6 .fw-300 }
 # Introduction
+{: .no_toc }
 
 Hello there! This documentation is here to help you get started with using Notion to organize your workspace. 
 

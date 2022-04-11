@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Using Notion with a Template
-nav_order: 4
+nav_order: 2
 ---
 
 # Using Notion with a Template
+{: .no_toc }
 
 Notion is an all-in-one workspace for everyone who needs to organize their information. 
 It provides a variety of templates for different purposes. 

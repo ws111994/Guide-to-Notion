@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing Pages & Collaborating
-nav_order: 6
+nav_order: 4
 ---
 
 # Sharing Pages With Others
